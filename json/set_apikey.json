@@ -1,0 +1,12 @@
+[
+    {
+        "name": "None",
+        "url": "",
+        "key": ""
+    },
+    {
+        "name": "deepseek/deepseek-chat:free",
+        "url": "https://openrouter.ai/api/v1/",
+        "key": "your key"
+    }
+]

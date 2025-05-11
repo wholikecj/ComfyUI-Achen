@@ -1,0 +1,2496 @@
+#Category:
+    #Input
+
+质量:
+    - 8K分辨率:8K Resolution
+    - 超高清:Ultra HD
+    - 超清晰:Super Clarity
+    - 高清:High Definition
+    - 超高分辨率:Ultra-high Resolution
+    - 超高清HDR:Ultra HD HDR
+    - 超高清晰:Ultra-high Definition
+    - 超高清画面:Ultra HD Picture
+    - 高细节:High Detail
+    - 高品质:Hyper Quality
+    - 高分辨率:High Resolution
+    - 16K分辨率:16K Resolution
+    - 超高清晰度:Ultra-high Clarity
+    - 完美阴影:Perfect Shadows
+    - 完美照明:perfect lighting
+    - professional, finest details, masterpiece, best quality   
+    - highly detailed, extremely detailed, intricate details
+    - score_9, score_8_up, score_7_up, score_6_up 
+
+风格:
+    - 插画:illustration
+    - 向量图:Vector
+    - 油画:oil painting
+    - 水墨画:ink painting
+    - 水彩:watercolor
+    - 素描:sketch
+    - 摄影:photography
+    - 雕塑:sculpture
+    - 印刷版面:Blockprint
+    - 90年代日本电影风格:style by 90's Japanese movie
+    - 利诺剪裁:Lino cut
+    - 传统文化:Traditional culture
+    - 浮世绘:Japanese Ukiyo-e
+    - 前拉斐尔派兄弟会:Pre-Raphaelite Brotherhood
+    - 超现实主义:Surrealism
+    - 真实感:photoreal
+    - 颓废:grunge
+    - 好莱坞风格:Hollywood-style
+    - 至高主义:Suprematism
+    - 国家地理:national geographic
+    - 时髦:chic
+    - 后印象派:Post-Impressionism
+    - 超写实主义:hyperrealism
+    - 魂系游戏:From Software
+    - 野外写生:En plein air
+    - 抽象风:Abstract
+    - 游戏风格:Game-style
+    - 街头:street
+    - 旷野之息:botw
+    - 电影般的:cinematic
+    - 日本海报风格:poster of japanese graphic design
+    - 电影摄影风格:Cinematography style
+    - 假小子:tomboy
+    - 写实主义:Gothic gloomy realism
+    - 星际战甲:Warframe
+    - 垃圾桶派:Ashcan School
+    - 深海:deep sea
+    - 建筑素描:architectural sketching
+    - 尖锐:edgy
+    - 冰河时代:ice age
+    - 微缩模型电影风格:Miniature movie style
+    - 蓝晒图:blueprint drawing
+    - 日本动画片:Anime
+    - 科幻:Science fiction
+    - 加勒比:Caribbean
+    - 宝可梦:Pokémon
+    - 木炭风格:charcoal style
+    - 粉笔画:Chalk drawing
+    - 宫崎骏风格:Miyazaki Hayao style
+    - 滴漆:dripping paint
+    - 化石:fossil
+    - Apex英雄:APEX
+    - 剪辑:film photography
+    - 赛博朋克风格:Cyberpunk style
+    - 对称肖像:symmetrical portrait
+    - 副岛成记:Soejima Shigenori
+    - 魔幻现实:Magic realism
+    - 嬉皮:hippie
+    - 清晰的面部特征:clear facial features
+    - 蒙太奇:montage
+    - 剖面图:cutaway
+    - 上古卷轴:The Elder Scrolls
+    - 民族艺术:Ethnic Art
+    - 极简:minimalist
+    - 次表面散射:subsurface scattering
+    - 黑白:black and white
+    - 水手风:nautical
+    - 新古典主义:Neoclassical
+    - 迪士尼风:Disney-style
+    - 扁平化设计:Flat design
+    - 时尚:Fashion
+    - 文艺:artsy
+    - 山田章博:Yamada Akihiro
+    - riso印刷风:risograph
+    - 镀铬效果:made of chrome
+    - 休闲:casual
+    - 哥特式:Gothic-style
+    - 色块画:Color Field painting
+    - 摇滚:rock
+    - 材质设计:Material Design
+    - 现代风格:Modern-style
+    - 洛可可风格:roCoCo style
+    - 摩德:mod
+    - 中国古风风格:Ancient Chinese style
+    - 哥特式黑暗:full details
+    - CG风格:CG style
+    - 儿童绘本:children's picture book
+    - 可爱:kawaii
+    - Jojo的奇妙冒险:jojo's bizarre adventure
+    - 漫画:manga
+    - 纸雕塑风格:paper sculptures
+    - 珍珠奶茶风格:Pearl Milk Tea stvle
+    - 野兽派:Fauvism
+    - 迷幻艺术风格:psychadelic art style
+    - 复古老漫画风格:retro vintage comic style
+    - 独立:indie
+    - 运动设计:Motion design
+    - 跑跑姜饼人:cookierun kingdom and
+    - 室内设计:interior design
+    - 日本风格:Japanese-style
+    - 盲盒玩具风格:blind box toy style
+    - 长阴影设计:Long shadow design
+    - 中性:androgynous
+    - 环保清新风格:Eco-friendly-style
+    - 社会现实主义风格:Social realism
+    - 极简主义:Minimalist
+    - 前卫:hipster
+    - 英雄联盟:League of legends
+    - 生物发光效果:bioluminrscent
+    - 拟物化设计:Skeuomorphism
+    - 乡村风格:Country style
+    - 飞溅效果:splash
+    - 先锋派:avant-garde
+    - 粗犷主义:brutalist
+    - 二次元:ACGN
+    - 建构主义:Constructivist
+    - 乡村:country
+    - 浪漫主义:Romanticism
+    - 贵妇风:dapper
+    - 极简主义:Minimalism
+    - 武器设计:weapon design
+    - 概念艺术:concept art
+    - 美国宣传海报:American propaganda poster
+    - 顽皮的:play fu
+    - 沉浸式设计:Immersive design
+    - 色调主义:Tonalism
+    - 热带风:tropical
+    - 美式乡村风格:American Country
+    - 新海诚:Makoto Shinkai
+    - 角色概念艺术:character concept art
+    - 美丽的:beautiful
+    - 工业风格:Industrial
+    - 油画:painting
+    - 神秘幻想:Mystic fantasy
+    - 波希米亚-时髦风:boho-chic
+    - 雕刻艺术风格:Carving Art
+    - 丙烯画:Acrylic painting
+    - 卡尔·拉尔松风格:Carl Larsson
+    - 搞怪:eccentric
+    - 洛丽塔风格:Lolita
+    - 手写风格:Handwriting style
+    - 当代艺术:Contemporary art
+    - 年轻的:youthful
+    - 黑白草图:Black and white sketch
+    - 瓷画:Porcelain painting
+    - 童话故事书插图风格:stock illustration style
+    - 女性化:feminine
+    - 穆夏风格:Mucha style
+    - 风俗画:Genre painting
+    - 专辑封面:Album cover
+    - 现代简约风格:Modern Minimalist
+    - 柴油朋克:diesel-punk
+    - 新印刷风格:New Print Style
+    - 体积法:volumetric lihht
+    - 成熟的:mature
+    - 线条艺术:Line art
+    - 后期文艺复兴:Mannerism
+    - 法国艺术:french art
+    - 草原风格:Prairie
+    - 商务休闲:business casual
+    - 魅力四溢的:charming
+    - 行动绘画:Action painting
+    - 包豪斯:Bauhaus
+    - 高雅:elegant
+    - 现代奢华风格:Modern Luxury
+    - 波普艺术:Pop art
+    - 六七质:Munashichi
+    - 末日废墟:ApocalypseRuins
+    - 明暗对照法:Chiaroscuro
+    - 由阿尔方斯·穆卡制作:by Alfons Mucha
+    - 手绘风格:Hand-drawn style
+    - 埃米利亚诺·庞齐:Emiliano Ponzi style
+    - 卡通:Cartoon
+    - 埃里克·卡尔:Eric Carle
+    - 丝状物:Filament
+    - 故障艺术:Glitch Art
+    - 像素风:Pixel art
+    - 荷兰黄金时期绘画:Dutch Golden Age painting
+    - 游戏场景:Game scene
+    - 水彩儿童插画:Watercolor children's illustration
+    - 赫奇:Herge
+    - 剑与远征:AFK Arena
+    - 童话风格:Fairy tale style
+    - OP艺术-光学艺术:OP Art ,Optical Art
+    - 日本漫画风格:Japanese comics,manga
+    - 克拉森:Jon Klassen
+    - 设计风:Graphic
+    - 涂鸦:doodle
+    - 达芬奇:Leonardo Da Vinci
+    - 镜头眩光:Lens Flare
+    - 光电风格:Light-electric Style
+    - 古着:Vintage
+    - 北方文艺复兴:Northern Renaissance
+    - 新海诚风格:Makoto Shinkai's style
+    - 梵高:Vincent Van Gogh
+    - 维多利亚时代:Victorian
+    - 森林风格:Forest
+    - 罗杰·迪金斯:Roger Deakins
+    - 机械风格:Mechanical Style
+    - 曼努埃尔·阿尔贝托·克鲁:Emmanuel Lubezki
+    - 霍华德·霍金斯:Hoyte van Hoytema
+    - 罗伯特·艾尔斯沃思:Robert Elswit
+    - 巴洛克吋期:Baroque
+    - 菌丝体:Mycelium
+    - 克里斯托弗·道尔:Christopher Doyle
+    - 韦利·菲斯特:Wally Pfister
+    - 保罗·皮克:Paul Pique
+    - 瓦尔特·卡塞尔:Walter Carvalho
+    - 印象派:Impressionism
+    - 雅努斯·卡明斯基:Janusz Kaminski
+    - 保罗·皮奎里查德·斯卡里:Richard Scarry
+    - 梅尔·兹格勒:Mihai Malaimare Jr
+    - 彼得·苏斯奇兹:Peter Suschitzky
+    - 达达主义:Dadaism
+    - 罗伯·冈萨尔夫斯:Rob Gonsalves
+    - 朱利安·洛夫里尼尔:Jules O'Loughlin
+    - 巴里·阿克罗伊:Barry Ackroyd
+    - 布鲁诺·德尔邦奈尔:Bruno Delbonnel
+    - 罗伯·冈萨尔夫斯:StarWar
+    - 约瑟夫·拉·沙尔:Joseph LaShelle
+    - 打旋:Swirling
+    - 理查德·克里特:Richard Kline
+    - 弗朗西斯·肯尼:Francis Kenny
+    - 合成器浪潮:Synthwave
+    - 马修·里博特:Matthew Libatique
+    - 打旋:Tracie Grimwood
+    - 鲍比·布科斯基:Bobby Bukowski
+    - 浮世绘风格:Ukiyo-estyle
+    - 弗拉基米尔·伊凡诺夫:Vyacheslav Ivanov
+    - 千禧风:year 2000 kilo
+    - 古典风格，18-19世纪:18-19th century-style
+    - 布鲁诺·科瓦洛夫:Bruno Coulais
+    - 新艺术风格:Art Nouveau
+    - 罗伯特·理查森:Robert Richardson
+    - 复古暗复古:retro dark vintage
+    - 经典:classic
+    - 新艺术:Rococo
+    - 未来主义:futuristic
+    - 运动:sporty
+    - 文艺复兴:Renaissance
+    - 伏尼契手稿:Voynich manuscript
+    - 立体派:Cubism
+    - 学院:preppy
+    - 梦工厂:CGSociety
+    - 波西米亚:bohemian
+    - 东方山水画:Tradition Chinese Ink Painting
+    - 海洋风格:Ocean
+    - 梦工厂黜业:DreamWorks Pictures
+    - 中式风格:Chinese-style
+    - 民族风格:Ethnic
+    - 蒸汽朋克:Steampunk
+    - 艺术装饰风格:Art Deco Style
+    - 浪漫:romantic
+    - 水墨插图:ink illustration
+    - 彩色玻璃窗:Stained glass window
+    - 黑水渲染:ink render
+    - 魔幻现实主义风格:Magic Realism Style
+    - 哥特:gothic
+    - 点彩派:pointillism
+    - 图形墨迹渲染:Graphic ink render
+    - 书页:book page
+    - 克劳德莫奈:Claude Monet
+    - 抽象表现主义:Abstract Art
+    - 新中式风格:New Chinese Style
+    - 华丽:glamorous
+    - 真实的:realistic
+    - 皮克斯:Pixar
+    - 绗缝艺术:quilted art
+    - 水墨风格:Ink Wash Painting Style
+    - 局部解剖:partial anatomy
+    - 黑白电影时期:Pulp Noir
+    - 3D风格:3D
+    - 纸本彩色墨水:color ink on paper
+    - 未来主义风格:Futuristic Style
+    - 复古:vintage
+    - 90年代电视游戏:90s video game
+    - 复杂的:sophisticated
+
+艺术家:
+    - 保尔勒:paullehr
+    - 韦恩·巴洛:Will Eisner
+    - 保尔塞尚:paulcezanne
+    - 手冢治虫:Osamu Tezuka
+    - 比阿特丽克丝·波特:Beatrix Potter
+    - 保克利:paulklee
+    - 彼得·布莱克:Peter Blake
+    - 比尔·沃特森:Bill Watterson
+    - 鲍里斯·瓦列霍:Boris Vallejo
+    - R. 克朗姆:R. Crumb
+    - 毕加索:picasso
+    - 拉尔夫·麦夸里:Ralph McQuarrie
+    - 查尔斯·达纳·吉布森:Charles Dana Gibson
+    - 皮埃尔奥古斯特诺瓦:pierreaugusterenoir
+    - 查尔斯·舒尔茨:Charles M. Schulz
+    - 理查德·汉密尔顿:Richard Hamilton
+    - 彼得蒙德里安:pietmondrian
+    - 克里斯·福斯:Chris Foss
+    - 皮克斯:pixar
+    - 罗伯特·劳森伯格:Robert Rauschenberg
+    - 拉辉石:rapharlite
+    - 罗伊·利希滕斯坦:Roy Lichtenstein
+    - 克拉斯·奥登堡:Claes Oldenburg
+    - 希德·米德:Syd Mead
+    - 大卫·霍克尼:David Hockney
+    - 伦勃朗:rembrandt
+    - 雷马格利特:renemagritte
+    - 特奥多尔·基特尔森:Theodor Kittelsen
+    - E.H. 谢泼德:E.H. Shepard
+    - 罗斯特兰:rosstran
+    - 沃尔特·克兰:Walter Crane
+    - 埃德蒙·杜拉克:Edmund Dulac
+    - 罗伊利希滕施泰因:roylichtenstein
+    - 韦恩·巴洛:Wayne Barlowe
+    - 弗兰克·凯利·弗里斯:Frank Kelly Freas
+    - 萨尔瓦多达利:salvadordali
+    - 弗兰克·米勒:Frank Miller
+    - 桑德罗波蒂切利:sandrobotticelli
+    - 温索·麦凯:Winsor McCay
+    - 新海真琴:shinkaimakoto
+    - 古斯塔夫多雷:Gustave Dore
+    - 阿莱纳埃纳米:alenaaenami
+    - 斯特凡科伊德尔:stefankoidl
+    - H.J. 福特:H.J. Ford
+    - 阿尔丰塞穆查:alphonsemucha
+    - 苏尔什达:suilshida
+    - H.R. 吉格尔:H.R. Giger
+    - 安迪·沃胡尔:andywarhool
+    - 赫奇:herge
+    - 高岛村上:takashimurakami
+    - 安东法德耶维:anntonfadeevi
+    - 霍华德·派尔:Howard Pyle
+    - 塔沙图杜尔:tashatudor
+    - 伊万·比利宾:Ivan Bilibin
+    - 安东皮克:antonpieck
+    - 西奥多·罗宾逊:theodorerobinson
+    - J.C. 莱恩德克尔:J.C. Leyendecker
+    - 杰克科比:jackkirby
+    - 班克斯:banksy
+    - 丁托列托:tintoretto
+    - 杰克·柯比:Jack Kirby
+    - 杰克逊·波洛克:jacksonpollock
+    - 提香·韦切利奥:titian
+    - 碧翠丝波特:beatrixpotter
+    - 让·米歇尔·巴斯奎特:jeanmichelbasquiat
+    - 詹姆斯·罗森奎斯特:James Rosenquist
+    - 梵高:vangogh
+    - 卡拉瓦乔:caravaggio
+    - 杰夫·昆斯:Jeff Koons
+    - 杰弗里·凯瑟琳·琼斯:jeffreycatherinejones
+    - 维克多莫斯科索:victormoscoso
+    - 瓦西里康定斯基:wassilykandinsky
+    - 查理博沃特:charliebowater
+    - 沃洛普:wlop
+    - 杰瑞平克尼:jerrypinkney
+    - 雅科瓦加姆:yaacovagam
+    - 大卫霍克尼:davidhockney
+    - 燕军城:yanjuncheng
+    - 丹尼斯斯托克:dennisstock
+    - 弥生草间:yayoikusama
+    - 迪戈里韦拉:diegorivera
+    - 杰姆沃特纳:jmwturner
+    - 洋司新川:yojishinkawa
+    - 埃德加德加斯:edgardegas
+    - 许正龙:zhenlongxu
+    - 尤金内德拉克罗瓦:eugenedelacroix
+    - 风华中:fenghuazhong
+    - 法式培根:francisbacon
+    - 约翰内斯·维梅尔:johannesvermeer
+    - 弗朗西斯科德戈亚:franciscodegoya
+    - 弗里达·卡罗:fridakahlo
+    - 加拉德布罗姆:garaldbrom
+    - 格雷格鲁特科夫斯基:gregrutkowski
+    - 古斯塔夫克里姆特:gustavklimt
+    - 早宫崎:hayaomiyazaki
+    - 亨利马蒂斯:henrimatisse
+    - 延克拉森:jonklassen
+    - 洪顺桑:hongsoonsang
+    - 杰西·威尔科克斯·史密斯:Jessie Willcox Smith
+    - 凯萨奇:kaysage
+    - 埃尔热:Hergé
+    - 约翰·伯克:John Berkey
+    - 京都动画:kyotoanime
+    - 约翰·哈里斯:John Harris
+    - 伊戈尔莫尔斯基:lgormorski
+    - 约翰·田尼尔:John Tenniel
+    - 马克查加尔:marcchagall
+    - 凯·尼尔森:Kay Nielsen
+    - 马塞尔杜尚:marcelduchamp
+    - 凯斯·哈林:Keith Haring
+    - 马克罗斯科:markrothko
+    - 马特科利肖:matcollishaw
+    - 麦克斯菲尔德·帕里什:Maxfield Parrish
+    - 迈克尔·惠兰:Michael Whelan
+    - 米查利夫斯基:michallisowski
+    - 阿尔封斯·穆哈:Alphonse Mucha
+    - 莫比乌斯 (让·吉罗):Moebius (Jean Giraud)
+    - 米开朗基罗:michelangelo
+    - 安迪·沃霍尔:Andy Warhol
+    - N.C. 怀特:N.C. Wyeth
+    - 莫奈:monet
+    - 古斯塔夫·多雷:Gustave Doré
+    - 阿瑟·拉克姆:Arthur Rackham
+    - 诺曼·洛克威尔:Norman Rockwell
+    - 奥布里·比尔兹利:Aubrey Beardsley
+
+摄影:
+    - 宝来利胶片:Baolei Film
+    - 焦散:bokeh
+    - 颗粒胶片:Grain Film
+    - 富士胶片:Fujifilm camera
+    - 胶片相机纹理:film camera texture
+    - 特写肖像:A close-up portrait
+    - 柔焦肖像:soft-focus portrait
+    - 魅力拍摄:Glamour Shot
+    - 复古电影胶片摄影:Retro movie style film photography
+    - 时装摄影:fashion photography
+    - 街头风格摄影:Street Style Photography
+    - 自然抓拍:Candid Photo
+    - 微距摄影:Micro Photography
+    - 野生动物摄影:Wildlife Photography
+    - 生活方式摄影:Lifestyle Photography
+    - 新闻摄影:Photojournalism Photography
+    - 水下摄影:Underwater Photography
+    - 自然摄影:Nature Photography
+    - 捕光摄影:Catchlight Photography
+    - 产品摄影:Product Photography
+    - 美联社摄影:Associated Press Photography
+    - 目录摄影:Catalogue Photography
+    - 纪实摄影:Documentary Photography
+    - 倾斜移位摄影:Tilt Shift Photography
+    - 食品摄影:Food Photography
+    - 黑白摄影:Black and White Photography
+    - 国家地理摄影:National Geographic Photography
+    - Unsplash摄影:Unsplash Photography
+    - 胶片颗粒摄影:Film Grain Photography
+    - 延时摄影:Time-Lapse Photography
+    - 动态摄影:Motion Photography
+    - 高速摄影:High-Speed Photography
+    - 针孔摄影:Pinhole Photography
+    - 定格动画摄影:Stop Motion Photography
+    - 动作场景摄影:Action Scene Photography
+
+视角:
+    - 特写:Close-up
+    - 半身像:UpperBody
+    - 全身像:Fullbody
+    - 非常低视角:very low angle 
+    - 两腿之间视角:view from between legs
+    - 底视图:Bottom View
+    - 肩膀视角:Over the shoulder
+    - 中远景:Medium Long Shot
+    - 顶视图:Top View
+    - 第一人称视角:First-Person View
+    - 远景:Long Shot
+    - 松散景:Loose Shot
+    - 近距离景:Tight Shot
+    - 风景照:Scenery Shot
+    - 倾斜移位:Tilt-Shift
+    - 微距视角:Macro lens
+    - 过肩景:Over the Shoulder Shot
+    - 前景:Foreground
+    - 卫星视图:Satelite View
+    - 四分之三肖像:3-4 Profile
+    - 背部角度-从后面拍摄:Back Angle,Behind Shot
+    - 软焦:Soft Focus
+    - 背景:Background
+    - 散焦-失焦:Defocused,Out of Focus
+    - 拉焦:Rack Focus
+    - 产品视图:Product View
+    - 运动视角:Dynamic
+    - 全身照(FLS):Full Length Shot
+    - 极端特写视图:Extreme Closeup View
+    - 大特写:Detail Shot
+    - 仰视:Look Up
+    - 腰部以上:Waist Shot
+    - 膝盖以上:Knee Shot
+    - 电影镜头:Cinematic Shot
+    - 人在远方:Extra Long Shot
+    - 焦点对准:In Focus
+    - 头部以上:Big Close-Up
+    - 等距视图:Isometric View
+    - 广角镜头:Wide- Angle View
+    - 脸部特写:Face Shot
+    - 特写视图:Closeup View
+    - 自由视角:Free camera
+    - 交错视角:Dutch
+    - 高角度视图:High Angle View
+    - 固定视角:Fixed camera
+    - 主观视角:pov
+    - 三点透视:Three-point perspective
+    - 景深(dof):depth of field (dof)
+    - 膝景(KS):Knee Shot(KS)
+    - 随意视角:Arbitrary view
+    - 面部拍摄(VCU):Face Shot (VCU)
+    - 肖像:Portrait
+    - 逆光摄影风格:Backlight Style
+    - 微观:Microscopic View
+    - 低角度视角:Low Angle Shot
+    - 俯视视角:Top-down perspective
+    - 多视图:multiple views
+    - 俯拍视角:Overhead
+    - 侧面视角:Side-scrolling perspective
+    - 插入画面:cut-in
+    - 常规视角:Eye-level
+    - 超侧角:Super Side Angle
+    - 前景模糊:blurry foreground
+    - 短距离视角:Close-up view
+    - 第三人称视角:Third-Person Perspective
+    - 七分身镜头:cowboy shot
+    - 远距离视角:Long-shot view
+    - 两点透视:Two-Point Perspective
+    - 线影法(纹理):hatching
+    - 远景透视画法:vanishing point
+    - 室外看向室内(的镜头):from outside
+    - 角色的侧面:from side
+    - 大气距离感:atmospheric perspective
+    - 全景:panorama
+    - 立面透视:Elevation Perspective
+    - 经过旋转的:rotated
+    - 倒挂的:upside-down
+    - 超广角镜头:Ultra Wide Shot
+    - 360度视角:360 view
+    - (核桃)的横截面图:A Cross-Section View of
+    - 前视图、侧视图、后视图:Front, Side, Rear View
+    - 极限特写:Extreme Close-Up
+    - 中特写:Medium Close-Up
+    - 透视视角:Perspective
+    - 中景:Medium Shot
+    - 跟随视角:Follow camera
+    - 内视镜视角:First-person perspective
+细节:
+    - 线条优美的:Graceful
+    - 线条优美且流畅的:Elegant
+    - 平整的:Flat
+    - 线条明显而突出的:Bold
+    - 具有浮雕感的:Embossed
+    - 精密的:Precise
+    - 具有雕刻感的:Carved
+    - 流线型的:Streamlined
+    - 逼真细节:Realistic Details
+    - 精致还原:Exquisite Restoration
+    - 柔和的:Soft
+    - 光洁的:Polished
+    - 纹理细节:Texture Details
+    - 弯曲的:Curved
+    - 细节丰富:Rich Details
+    - 精细模型:Fine Model
+    - 细节完美:Perfect Details
+    - 粗糙的:Rough
+    - 复杂场景:Complex Scenes
+    - 不规则的:Irregular
+    - 真实还原:Realistic Restoration
+    - 粗大的:Bulky
+    - 锋利的:Sharp
+    - 细节描绘:Elaborate Depiction
+    - 多棱角的:Angular
+    - 清晰呈现:Clear Presentation
+    - 细节纤毫:Minute Details
+    - 细节之美:Beauty of Details
+    - 高清细节:HD Details
+    - 细节严谨:Meticulous Details
+    - 统一的:Uniform
+    - 细节表现:Detail Expression
+    - 多样化的:Varied
+    - 有机的:Organic
+    - 细微的:Subtle
+    - 纤细的:Slender
+    - 细长的:Thin
+    - 线条细致的:Intricate
+    - 线条流畅且柔和的:Gentle
+    - 曲线细腻的:Delicately curved
+    - 光滑的:Smooth
+    - 线条弯曲但流畅的:Sinuous
+    - 线条优美且精细的:Exquisite
+    - 有纹理的:Textured
+    - 清晰的:Clear
+    - 有层次感的:Layered
+    - 细腻的:Delicate
+    - 精细的:Fine
+    - 纹路自然的:Organic pattern
+
+人物描述:
+    - 女孩:1girl
+    - 超级名模:supermodel
+    - 年轻亚洲女人:a young asian woman
+    - 露出肩膀:bare shoulders
+    - 多彩的头发:multicolored hair
+    - 骆驼趾:cameltoe
+    - 害羞的微笑:shy smile
+    - 锁骨:collarbone
+    - 哭泣:crying
+    - 雀斑:freckles
+    - 烟熏妆:smoky makeup
+    - 化妆:makeup
+    - 水润的皮肤:moist skin
+    - 白皙皮肤:fair skin
+    - 大乳房:big breasts
+    - 乳房:breasts
+    - 拍着:all fours
+    - 细腰:small waist
+    - 宽臀:wide hips
+    - 细致的美颜:detailed beautiful face
+    - 看着观众:looking at viewer
+    - 可爱又甜蜜:lovely and sweet
+    - 精致的面容:Exquisite face
+    - 性感的:sexy
+    - 乳头:nipples
+    - 裸体:naked
+    - 娇小的身体:curvy and petite
+    - 阴部:pussy
+    - 阴唇:labia
+    - 中号阴茎:medium size penis
+    - 阴毛:pubic hair
+    - 阴部焦点:pussy focus, 
+    - 张开嘴:spreading lips
+    - 湿猫咪:wet pussy, pussy dripping,
+    - 阴道性交:vaginal sex
+    - 裸露的锁骨:exposed collarbone
+    - 完全裸体:completely nude
+    - 肚脐:navel
+    - 肛门:anus
+
+人物职业:
+    - 消防员:Firefighter
+    - 建筑师:Architect
+    - 医生:Doctor
+    - 律师:Lawyer
+    - 教师:Teacher
+    - 金融家:Financier
+    - 军人:Soldier
+    - 艺术家:Artist
+    - IT专家:IT specialist
+    - 作家:Writer
+    - 电影制片人:Filmmaker
+    - 舞者:Dancer
+    - 记者:Journalist
+    - 模特:Model
+    - 工程师:Engineer
+    - 科学家:Scientist
+    - 公务员:Civil servant
+    - 宗教领袖:Religious leader
+    - 农民:Farmer
+    - 渔民:Fisherman
+    - 矿工:Miner
+    - 潜水员:Diver
+    - 女巫:Witch
+    - 运动员:Sportsman
+    - 救生员:lifeguard
+    - 赛车手:Racing driver
+    - 空姐:Stewardess
+    - 宇航员:astronaut
+    - 魔术师:magician
+    - 护士:Nurse
+    - 女服务员:waitress
+    - 啦啦队:cheerleaders
+    - 咖啡师:Barista
+    - 舞女:Dancing girl
+    - 司机:driver
+    - 巫女:Miko
+    - 飞行员:Pilot
+    - 女仆:Maid
+    - 拉拉队:Cheerleader
+    - 政治家:Politician
+    - 企业家:Entrepreneur
+    - 厨师:Chef
+    - 销售员:Salesperson
+    - 警察:Police officer
+    - AI程序员:Alprogrammers
+    - 外星探险家:alien explorers
+    - 复仇者:avengers
+    - 生化工作者:biochemists
+    - 冷血刺客:cold-blooded assassins
+    - 赛博格战士:cybernetic Warriors
+    - 赛博格:cyborgs
+    - 探险家:explorers
+    - 黑客:hackers
+    - 拥有不可思议能力的黑客:hackers with incredible abilities
+    - 独立记者:independentjournalists
+    - 创新发明家:innovativeinventors
+    - 维护员工:maintenance workers
+    - 改装的战斗机器:modifiedfighting machines
+    - 能力超群的警察:police officers with extraordinary abilities
+    - 私人侦探:private detectives
+    - 反抗领袖:resistance leaders
+    - 有情感的机器人:robotswithemotions
+    - 特种兵士:special soldiers
+    - 超级英雄:superheroes
+    - 科技监管官:technologyregulators
+    - 盗贼:thieves
+
+上衣服装: 
+    - 露肩毛衣:wearing an off-the shoulder sweater
+    - T恤衫:T-shirt
+    - 连衣裙:Dress
+    - 印花T恤:print shirt
+    - 旗袍:cheong-sam
+    - 中国汉服:Chinese Hanfu
+    - 牛仔套装:Denim suit
+    - 夏威夷衬衫:hawaiian shirt
+    - 法师袍:Monk's robe
+    - 衣服漏洞:clothing cutout
+    - 条纹衬衫:striped shirt
+    - 大衣:Overcoat
+    - 艾尔兰毛衣:aran sweater
+    - 条纹毛衣:striped sweater
+    - 白衬衫:white shirt
+    - 棒球服:Baseball jacket
+    - 长袍:robe
+    - 针织衫:Striped Knit Cardigan
+    - 连帽斗篷:hooded cloak
+    - 斗篷外套:cloak coat
+    - 羽绒服:down jacket
+    - 混纺长袍:blend robe coat
+    - 无袖毛衣:Lettering Fuzzy Sleeveless Sweater
+    - 针织上衣:Line Color Scheme Knit Top
+    - 巴伐利亚服饰:dirndl
+    - 外套:outerwear
+    - 西服上衣:blazer
+    - 风衣:trench coat
+    - 系带大衣:wrap coat
+    - 中世纪盔甲:Medieval armor
+    - 防弹背心:Tactical bulletproof vest
+    - 卫衣:hoodie
+    - 超短针织上衣:Crop Knit Top
+    - 系带衬衫:tied shirt
+    - 马甲:waistcoat
+    - 背心:sleeveless shirt
+    - 无袖连帽衫:sleeveless hoodie
+    - 格子衬衫:plaid shirt
+    - 长袖运动卫衣:sweatshirt
+    - 皱边衬衫:frilled shirt
+    - 短衬衫:cropped shirt
+    - 水手服:sailor shirt
+    - 西服衬衫:dress shirt
+    - 衬衫:Shirt
+    - 卫衣:Hoodie
+    - 外套:Coat
+    - 夹克:Jacket
+    - 背心:Vest
+    - 运动服:Sportswear
+    - 工装裤:cargo pant
+    - 晚礼服:Evening dress
+    - 民族服装:National dress
+    - 皮衣:Leatherjacket
+    - 公主裙:princess dress
+    - 唐装:Tang suit
+    - 旗袍裙:cheongsam skirt
+    - 襦裙:Ru skirt
+    - 曲裾:Curving-front robe
+    - 褙子:Sleeved over-dress
+    - 裙褶:Pleated Skirts
+    - 大袖:Wide Sleeves
+
+裤裙下装:
+    - 吊带短裤:suspender shorts
+    - 宽松短裤:puffy shorts
+    - 休闲裤:Pocket String Jogger Pants
+    - 荷叶裙:ruffleskirt
+    - 苏格兰风裙子:Kilt skirt
+    - 德国民族群:Dirndl skirt
+    - 哥特裙:Gothic skirt
+    - 部落风裙子:Tribal skirt
+    - 格子裙:plaid skirt
+    - 牛仔裙:Cowboy skirt
+    - 热裤:Hot Pants
+    - 低腰短裤:Low-Rise Shorts
+    - 露口袋短裤:Peek-a-Boo Pocket Shorts
+    - 蕾丝短裤:Lace Shorts
+    - 皮质短裤:Leather Shorts
+    - 运动热裤:Sporty Hot Pants
+    - 侧开叉短裙:Side-Slit Skirt
+    - 高开叉长裙:High-Slit Maxi Skirt
+    - 紧身包臀裙:Tight Pencil Skirt
+    - 露背裙:Backless Dress
+    - 深V领裙:Deep V Neck Dress
+    - 裹身裙:Wrap Skirt
+    - 露肩裙:Off-Shoulder Dress
+    - 露腰裙:Crop Top Skirt
+    - 透视裙:Sheer Skirt
+    - 金属感短裙:Metallic Skirt
+    - 亮片裙:Sequined Skirt
+    - 紧身皮裙:Leather Pencil Skirt
+    - 紧身牛仔裙:Bodycon Denim Skirt
+    - 流苏牛仔短裤:Fringe Denim Shorts
+    - 紧身牛仔裤:Skinny Jeans
+    - 直筒牛仔裤:Straight Jeans
+    - 喇叭裤:Flared Pants
+    - 哈伦裤:Harem Pants
+    - 瑜伽裤:Yoga Pants
+    - 打底裤:Leggings
+    - 西装裤:Trousers
+    - 高腰裤:High-Waist Pants
+    - 七分裤:Cropped Pants
+    - 百慕大短裤:Bermuda Shorts
+    - A字裙:A-Line Skirt
+    - 包臀裙:Bodycon Skirt
+    - 迷你裙:Mini Skirt
+    - 长裙:Maxi Skirt
+    - 伞裙:Umbrella Skirt
+    - 蛋糕裙:Tutu Skirt
+    - 流苏裙:Fringe Skirt
+    - 蕾丝裙:Lace Skirt
+    - 印花裙:Print Skirt
+    - 针织裙:Knit Skirt
+
+人物情绪:    
+    - 时尚的:Chic
+    - 沉稳的:Poised
+    - 复杂的:Sophisticated
+    - 精致的:Refined
+    - 时尚的:Stylish
+    - 高雅的:Classy
+    - 庄严的:Regal
+    - 魅力四溢的:Charismatic
+    - 卓越的:Distinguished
+    - 文雅的:Suave
+    - 敏感的:Sensitive
+    - 乐观的:Optimistic
+    - 外向的:Outgoing
+    - 聪明的:Intelligent
+    - 内向的:Introverted
+    - 独立的:Independent
+    - 灵活的:Flexible
+    - 自信的:Confident
+    - 贫穷的:Poor
+    - 富裕的:Wealthy
+    - 愤怒:angry
+    - 难过:upset
+    - 悲伤:sad
+    - 兴奋:excited
+    - 感到惊讶:surprised
+    - 高兴:happy
+    - 厌恶:disgusted
+    - 焦虑:anxious
+    - 兴高采烈:elated
+    - 感到恐惧:fearful
+    - 憎恨:hateful
+    - 毒液:Venom 
+    - 甜心:sweetheart
+    - 长舌头:long tongue
+    - 思考:thinking
+    - 额头:forehead
+    - 不安的:nervous
+    - 坏笑:evil smile
+    - 不安地微笑:nervous smile
+    - 淡淡的腮红:light blush
+    - 苦恼的:annoyed
+    - 脸贴脸:cheek-to-cheek
+    - 沉思的:pensive
+    - 表情:expressions
+    - 抬下巴:chin grab
+    - 害羞的:shy
+    - 失神:unconscious
+    - 挡住嘴巴:covering mouth
+    - 尴尬的:embarrassed
+    - 疯狂地笑:crazy smile
+    - 明亮的瞳孔:bright pupils
+    - 脸红的:blush
+    - 强迫笑:forced smile
+    - 困乏的:sleepy
+    - 格拉斯哥微笑:glasgow smile
+    - 苦笑:sad smile
+    - 喝醉的:drunk
+    - 耳红:ear blush
+    - 皱眉:frown
+    - 尖牙:fangs
+    - 憋气:holding breath
+    - 舌头:tongue
+    - 恐惧表情:horrified
+    - 诱人的微笑:seductive smile
+    - 傲娇:tsundere
+    - 胡子:facial hair
+    - 啜泣:sobbing
+    - 脸贴脸:face-to-face
+    - 笑脸:smiley
+    - 食物在脸上:food on face
+    - 傻笑的笑:smirk
+    - 二人面对面(脸贴得很近）:facing another
+    - 闻:smelling
+    - 慌乱的:fLustered
+    - 张口:open mouth
+    - 额头贴额头:forehead-to-forehead
+    - 整张脸泛红:full blush
+    - 牙:teeth
+    - 微笑:smile
+    - 喘粗气:heavy breathing
+    - 浅笑:Iight smile
+    - 呻吟:moaning
+    - 得意脸:smUg
+    - 惊讶或无语到喷了:spit take
+    - 失神:expressionless eves
+    - 诱惑的表情:torogao
+    - 忍耐的表情:endured face
+    - 快乐-幸福:happy
+    - 青筋:anger vein
+    - 表情贴纸:blush stickers
+    - 疑惑:confused
+    - 有决心的:determined
+    - 失望的:disappointed
+    - 嘴唇微张:parted Lips
+    - 庆恶的怪相:grimace
+    - 蔑视:disdain
+    - 尖叫:screaming
+    - 绝望:despair
+    - 害怕的:scared
+    - 邪恶:evil
+    - 以手掩直:facepalm
+    - 怒视嫌弃-不满:scowl
+    - 沮丧:frustrated
+    - 库布里克凝视:kubrick stare
+    - 孤独的:Lonely
+    - 扬起的眉毛:raised eyebrow
+    - 压抑的-郁闷的:depressed
+    - 要哭的表情:tearing up
+    - 恐慌的:panicking
+    - 担忧的:worried
+    - 无聊的:bored
+    - 悲观情绪:gloom
+    - 在笑的:laughing
+    - 嚣张脸:troll
+    - 嫉妒的:jealous
+    - 唾液拉丝:saliva trail
+    - 朱唇:red lips
+    - 累:tired
+    - 露出上排牙齿:upper teeth
+    - 露出虎牙-露出尖牙:fang out
+    - 闷网不乐:sUlking
+    - 露齿而笑:grin
+
+场景:
+    - 雪景电影氛围:snow scene film vibe
+    - 北海道雪景:Snowy Hokkaido scene
+    - 异想天开:Whimsically
+    - 大草原:Grassland
+    - 沙滩:Dune
+    - 熔岩洞穴:Lava cave
+    - 热带雨林:Rainforest
+    - 农田:Farmland
+    - 废墟:Ruins
+    - 城市:City
+    - 废弃城市建筑群:Deserted city buildings
+    - 悬崖峭壁:Cliff
+    - 近未来都市:Near future city
+    - 沼泽地:Marshland
+    - 街道风景:Street scenery
+    - 未来公园:Futuristicpark
+    - 巨大建筑:GiantArchitecture
+    - 巨大机器:GiantMachines
+    - 哥特式大教堂:GothicCathedral
+    - 鬼屋森林:Hauntedforest
+    - 海底:Seabed
+    - 幽灵庄园:Hauntedmansion
+    - 炼金室:Alchemy Laboratory
+    - 河口:Estuary
+    - 工业城市:Industrial cityscape
+    - 后启示录、未日后:postapocalyptic
+    - 房间:room
+    - 雨天:Rain
+    - 街景:streetscape
+    - 在晨雾中:Inthemorningmist
+    - 巴比伦空中花园:Hanging Gardens of Babylon
+    - 雨天:rain
+    - 天空之城:Castle in the Sky
+    - 冰雪王国:Lcekingdom
+    - 在晨雾中:In the morning mist
+    - 充满阳光:Full of sunlight
+    - 月球景观:LunarLandscape
+    - 冰山:Iceberg
+    - 月球地貌:Lunar Landscape
+    - 银河:Galaxy
+    - 月球殖民地:Lunarcolony
+    - 雨水林:Cloud forest
+    - 魔幻森林:MagicalForest
+    - 时光穿越城市:Underwater cave
+    - 魔法王国:MagicalKingdom
+    - 果园:Orchard
+    - 火星探险:MarsExploration
+    - 星云:Nebula
+    - 中世纪城堡:Medievalcastle
+    - 珠穆朗玛峰:Mount Everest
+    - 神秘山脉:Mystic mountain
+    - 草原草地:Meadow
+    - 神秘森林:MysticalForest
+    - 时空隧道:Wormhole
+    - 湖泊:Lake
+    - 神秘寺庙:Mystictemple
+    - 幽灵镇:Ghost town
+    - 空中花园:Sky garden
+    - 神话世界:MythicalWorld
+    - 霓虹城市:Neoncity
+    - 外太空:OuterSpace
+    - 外星球:Alien planet
+    - 炼金室:ALchemyLaboratory
+    - 城市公园:City park
+    - 海盗岛屿:Pirateisland
+    - 冰川:Glacier
+    - 机器人工厂:Robotfactory
+    - 赛博空间:Cyberspace
+    - 外星球:ALienplanet
+    - 杂草丛生:Overgrown nature
+    - 浪漫小镇:RomanticTown
+    - 古代神庙:AncientTemple
+    - 山脉:Mountain
+    - 古代遗迹:Ancientruins
+    - 天空岛屿:Skyisland
+    - 河流:River
+    - 世界末日城市:Apocalypticcity
+    - 极光北极:AuroraBorealis
+    - 宇宙飞船:Spaceship
+    - 梦境:Dreamland
+    - 太空站:Spacestation
+    - 水晶宫殿:Crystalpalace
+    - 星空夜景:Starrynightsky
+    - 蒸汽朋克工厂:SteampunkFactory
+    - 暴走机甲小巷:CyberpunkALLey
+    - 赛博克街道:Cyberpunkstreet
+    - 沉船遗迹:SunkenShipwreck
+    - 黑暗森林:DarkForest
+    - 沙漠绿洲:Desertoasis
+    - 超现实梦境:SurrealDreamland
+    - 荒漠孤烟:DesolateDesert
+    - 科技城市:Technological City
+    - 黑洞:Black hole
+    - 数字宇宙:DigitalUniverse
+    - 时光穿越城市:Timetravelcityscape
+    - 数字城市:Digitalcityscape
+    - 热带天堂:Tropicalparadise
+    - 梦幻云彩:Dreamyclouds
+    - 反乌托邦未来:Dystopianfuture
+    - 水下世界:Underwater world
+    - 魔法森林:EnchantedForest
+    - 迷人花园:EnchantedGarden
+    - 冥界:Underworld
+    - 外星地貌:Extraterrestrial Landscape
+    - 数字宇宙:Universe
+    - 灵异空间:Otherworld
+    - 奇幻村庄:Fantasyvillage
+    - 火山喷发:VolcanicEruption
+    - 未来机器人:FuturisticRobots
+    - 黑暗地牢:dungeon
+    - 未来实验室:Futuristic Laboratory
+    - 珊瑚礁:Coral reef
+    - 充满阳光:fullofsunLight
+    - 奇幻森林:Enchanted forest
+    - 黑暗地牢:galaxy
+    - 未来交通工具:Futuristic transportatio
+    - 疯狂麦斯沙地风格:madmax
+    - 幻想:Fantasy
+    - 星云:nebula
+    - 杂草丛生的:overgrownnature
+    - 教室:Classroom
+    - 星球大战:StarWars
+    - 浪漫小镇:Snowy mountain
+
+灯光:
+    - 专业照明:Professional lighting
+    - 体积光:Volumetric lighting
+    - 电影照明:film lighting
+    - 演播室灯光:studio lights
+    - 柔和光:Soft illumination,soft lights
+    - 激光束效果:Laser beam effect
+    - 荧光灯:Fluorescent lighting
+    - 暗光效果:Dim light effect
+    - 斑驳的阳光:dappled sunlight
+    - 耀眼的光线-晨光:Rays of shimmering light,morning light
+    - 发光文本:Glowing text
+    - 暮光之光:Crepuscular ray
+    - 外太空视角:Outer space view
+    - 星空效果:Starry sky effect
+    - 电影灯光:Cinematic lighting,Dramatic lighting
+    - 动画光:animation lighting
+    - 暖光:Warm light
+    - 双面性灯光:Bisexual lighting
+    - 情调光:mood lighting
+    - 映射光:mapping light
+    - 轮廓光:Contour light
+    - 全局照明:Global illuminations
+    - 冷光霓虹灯:Neon cold lighting
+    - 逆光:backlighting
+    - 球形灯光:Orb light
+    - 雷姆布兰特灯光:Rembrandt lighting
+    - 强烈光线:Hard lighting
+    - 分光灯光:Split lighting
+    - 工作室灯光:Studio lighting
+    - 正面照明:Front lighting
+    - 自然光:Natural light
+    - 明暗对比:chiaroscuro
+    - 室内照明:Indoor lighting
+    - 背景照明:Back lighting
+    - 背景虚化:depth of field
+    - 抖动:dithering
+    - 立绘阴影:drop shadow
+    - 室外照明:Outdoor lighting
+    - 高动态范围照明:HDR lighting
+    - 胶片颗粒感-老电影滤镜:film grain
+    - 电影光效:cinematic lighting
+    - 干净的背景:Clean background trending
+    - 实时照明:Real-time lighting
+    - 富士色彩:Fujicolor
+    - 戏剧性灯光:Dramatic lighting
+    - 半调风格:halftone
+    - 边缘照明:Rim lighting
+    - 定向光:Directional light
+    - 动态模糊:motion blur
+    - 图像填充:image fill
+    - 色差:chromatic aberration
+    - 体现运动的线:motion lines
+    - 闪耀效果:sparkle
+    - 点光源:Point light
+    - 多重单色:multiple monochrome
+    - JPEG压缩失真:jpeg artifacts
+    - 聚光灯:Spotlight
+    - 模糊的:blurry
+    - 区域灯光:Area light
+    - 视错觉:optical illusion
+    - 环境光:Ambient light
+    - 荧光:glowing light
+    - 互补色:anaglyph
+    - 神圣感顶光:god rays
+    - 阴影光:Shadow light
+    - 太阳光:Sun light
+    - 低调照明:Low Key Lighting
+    - 黄金时间:Golden hour
+    - 月光:Moonlight
+    - 体积照明:Volume illumination
+    - 强光:Glare
+    - 阳光照射:sunlit
+    - 重点照明:Emphasis lighting
+    - 放射性发光体:Radioluminescence
+    - 立体画:stereogram
+    - 核废料的光芒:The glow of nuclear waste
+    - 紫外线:Ultraviolet light
+    - 穆迪照明:Moody lighting
+    - 环形灯:Ring light
+    - 扫描线:scanlines
+    - 剪影:silhouette
+    - 光线追踪:ray tracing
+    - 速度线:speed lines
+    - 纹理灯:Texture light
+    - 晕影:vignetting
+    - 反射光:reflection light
+    - 自发光材质:Emissive material
+    - 混合:blending
+    - 盛开:bloom
+    - 聚光灯:Spot light
+    - 色差滥用:chromatic aberration abuse
+    - 半球灯光:Hemisphere light
+    - 面板灯:Panel light
+    - 频闪灯:Strobe light
+    - 霓虹灯:Neon light
+    - 头发发光效果:Hair glow
+    - 冷色光:Cold light
+    - 电弧火花:Arc sparks
+    - 情境灯光:Mood lighting
+    - 彩虹光环:Rainbow halo
+    - 明亮:Bright
+    - 夜光效果:Glow in the dark
+
+色调:
+    - 低欲望:low desire
+    - 深蓝绿色调:Deep green and deep blue color scheme
+    - 青橙色调:Cyan and orange color scheme
+    - 黑金色调:Black and gold color scheme
+    - 青蓝色调:Cyan blue
+    - 低饱和度:low saturation
+    - 枫叶红色系:Maple Red
+    - 波普艺术色系:Pop Art
+    - 雪山蓝色系:Mountain Blue
+    - 黑色背景居中:black background centered
+    - 白色和绿色调:white and green tones
+    - 红色和黑色调:red and black tones
+    - 莫兰迪色系:Muted Tones
+    - 黄色和黑色调:yellow and black tones
+    - 金色和银色调:Gold and silver tones
+    - 钛金属色系:Titanium
+    - 霓虹色调:neon shades
+    - 红:red
+    - 鲜果色系:Fresh Fruits
+    - 白:white
+    - 黑:black
+    - 极简黑白色系:Minimalist Black and White
+    - 绿:green
+    - 温暖棕色系:Warm Brown
+    - 黄:yellow
+    - 蓝:blue
+    - 柔和粉色系:Soft Pink
+    - 时尚灰色系:Fashionable Gray
+    - 紫:purple
+    - 亮丽橙色系:Bright Orange
+    - 灰:gray
+    - 象牙白色系:Ivory White
+    - 棕:brown
+    - 自然绿色系:Natural Green
+    - 褐:tan
+    - 奢华金色系:Luxurious Gold
+    - 黑白灰色系:Black and white gray system
+    - 橙:orange
+    - 稳重蓝色系:Steady Blue
+    - 黑色背景为中心:Black background centered
+    - 经典红黑白色系:Classic Red Black and White
+    - 镭射糖果纸色:laser candy paper color
+    - 中国红:Chinese Red
+    - 珊瑚橙色系:Coral Orange
+    - 巨无霸色系:Whopper
+    - 敦煌色系:Dunhuang color system
+    - 马卡龙色:Macarons
+    - 爱马仕橙:Hermes Orange
+    - 秋日棕色系:Autumn Brown
+    - 莫兰迪色:Morandi color
+    - 高纯度色调:High purity tone
+    - 丹宁蓝色系:Denim Blue
+    - 克莱因蓝:Klein Blue
+    - 紫罗兰紫色系:Violet Purple
+    - 发光:shine
+    - 低纯度色调:Low purity tone
+    - 星闪:star flash
+    - 柠檬黄色系:Lemon Yellow
+    - 马耳他蓝:Malta Blue
+    - 荧光:fluorescence
+    - 水晶蓝色系:Crystal Blue
+    - 圣光:holy light
+    - 马尔斯绿:Mars Green
+    - 马蒂斯色系:Matisse color scheme
+    - 孟菲斯色系:Memphis color scheme
+    - 萝卜红色系:Carrot Red
+    - 紫罗兰色系:Lavender
+    - 蒙德里安色系:Mondrian color scheme
+    - 绿野仙踪色系:Emerald
+    - 玫瑰金色系:Rose Gold
+    - 多色彩搭配:Multi color matching
+    - 浅蓝色系:Sky Blue
+    - 钴蓝色系:Cobalt Blue
+    - 孔雀绿:Peacock Green
+    - 石墨黑色系:Graphite Black
+    - 提香红:Tixiang Red
+    - 只此青绿:Turquoise color
+    - 酒红色系:Burgundy
+    - 对比度:contrast ratio
+    - 土耳其蓝色系:Turquoise
+    - 蒂芙尼蓝:tiffany blue
+    - 薄荷绿色系:Mint Green
+    - 淡色调:tints
+    - 日暮色系:Sunset Gradient
+
+构图:
+    - 女孩占五分之一画面:girl takes up 1\5 of the frame
+    - 画框构图:Framing composition
+    - 两极对称:polar opposites
+    - 人物立绘缩放(剪影)图层:zoom layer
+    - 非线性构图:Nonlinear composition
+    - 镜头光晕:lens flare
+    - 过曝:overexposure
+    - 饱和构图:Saturated composition
+    - 背景散焦:bokeh
+    - 焦散:caustics
+    - 视角构图:Point of view composition
+    - 剪影构图:Cut out composition
+    - 重复构图:Repetition composition
+    - 索尼大师镜头:Sony FE GM
+    - 等轴:isometric
+    - 焦点构图:Focal point composition
+    - S形构图:S-shaped composition
+    - 横向构图:Horizontal composition
+    - 对比构图:Contrast composition
+    - 曼德博集合:Mandelbrot
+    - 重叠构图:Overlapping composition
+    - 孤立构图:Isolation composition
+    - 宽景:Wide view
+    - 鸟瞰:Bird view
+    - 径向构图:Radial composition
+    - 俯视:Top view
+    - 分割互补构图:Split complementary composition
+    - 仰视:Up view
+    - 圆形构图:circular.composition
+    - 竖线构图:vertical composition
+    - 引导线构图:Leading line
+    - 曲线构图:curve composition
+    - 正面:Front view
+    - 极简主义构图:minimalist composition
+    - 负空间构图:Negative space composition
+    - 拼贴构图:Collage composition
+    - 头部特写:Headshot
+    - 深度:Depth
+    - 超广角:Ultrawide shot
+    - 纹理:Texture
+    - 极端特写:Extreme closeup
+    - 残像:afterimage
+    - 一部分画到了背景框外面:outside border
+    - 微距:Macro shot
+    - 褪色边框:fading border
+    - 景观:An expansive view of
+    - 背景或画框是圆角:rounded corners
+    - 头部脱框:head out of frame
+    - 全身:Full body
+    - 三角构图:Triangular Composition
+    - 框架构图:Frame Composition
+    - 宽银幕格式:letterboxed
+    - 中心构图:Central composition
+    - 半身像:Busts
+    - 一排人:lineup
+    - 特写:Close up
+    - 马赛克艺术:mosaic art
+    - 侧面:Profile
+    - 对称身体:Symmetrical body
+    - 对称面孔:Symmetrical face
+    - 三分法构图:Rule of Thirds composition
+    - 对称构图:Symmetrical composition
+    - 黄金分割构图:Golden Ratio composition
+    - 非对称构图:Asymmetrical composition
+    - 部分水下拍摄:partially underwater shot
+    - 对角线构图:Diagonal composition
+    - 动态对称构图:Dynamic symmetry composition
+    - 并列构图:Juxtaposition composition
+    - 汇聚线条构图:Converging lines composition
+    - 消失点构图:Vanishing point composition
+
+图片特效: 
+    - 泼彩效果:Color Splash
+    - 双重曝光:Double Exposure
+    - 3D 浮雕:3D Anaglyph
+    - 划痕效果:Scratch
+    - 霓虹发光轮廓:Neon Glowing Outline
+    - 分色效果:Color Split
+    - 虚化:Bokeh
+    - 分形镜:Fractal Mirror
+    - 运动模糊:Motion Blur
+    - 故障突变:Glitches
+
+渲染器:  
+    - 环境光遮蔽:Ambient Occlusion
+    - 抗锯齿:Anti-aliasing
+    - 体积渲染:Volume rendering
+    - 光线追踪:Ray Tracing
+    - 光线投射:Ray Casting
+    - 格点光线追踪:Grid-based Ray Tracing
+    - 重要性采样:Importance Sampling
+    - 室内渲染:Corona Render
+    - Monte Carlo 渲染:Monte Carlo Rendering
+    - 贴图映射:Texture Mapping
+    - 环境贴图:Environment Mapping
+    - 全局光照:Global Illumination
+    - 亚像素采样:Subpixel Sampling
+    - Redshift渲染器:Redshift Renderer
+    - 虛幻引擎:Unreal Engine
+    - C4D渲染器:C4D Renderer
+    - OC渲染:Octane render
+    - Blender渲染器:Blender Renderer
+    - 建筑渲染:Architectural visualisation
+    - Mental Ray渲染器:Mental Ray
+    - v射线:V-Ray
+    - 靛蓝渲染器:Indigo Renderer
+    - 虚拟引擎:Virtual engine
+    - 3D渲染:3D rendering
+    - FStorm渲染器:FStorm Renderer
+    - 超真实:Hyperrealism
+    - Corona渲染器:Corona Renderer
+
+人物五官:
+    - 多色的黑眼睛:molticolored eyes
+    - 空洞眼睛:emptyeyes
+    - 星形眼睛:star-shaped pupils
+    - 闭上眼睛:closed eyes
+    - 闭眼:eyes closed
+    - 盯着:eyeball
+    - 眼泪:tears
+    - 水汪汪大眼:aqua eyes
+    - 睁养眼落泪:crying with eyes open
+    - 发光眼睛:qlowing eyes
+    - 半闭的眼睛(单眼）:half-closed eye
+    - 瞪眼:glaring
+    - 恶魔眼:devil eyes
+    - 蛇瞳:snake pupils
+    - 紫眼:purple eyes
+    - 眼下痣:mole under eye
+    - 瞪大眼睛:crazy eyes
+    - 挑眉:raised eyebrows
+    - 红眼:red eyes
+    - 金眼:yellow eyes
+    - 上翘的眼睛:upturned eyes
+    - 睁开眼睛:wide-eyed
+    - 美瞳:color contact lenses
+    - 长睫毛:longeyelashes
+    - 彩色睫毛:colored eyelashes
+    - 橙色的眼镜:orange eyes
+    - 粉红色的眼镜:pink eyes
+    - 琥珀色眼:amber eyes
+    - 钻石形睡孔:diamond-shaped pupils
+    - 兽耳萝莉模式:kemonomimi mode
+    - 狮子耳朵:Lion ears
+    - 熊猫耳朵:panda ears
+    - 皮卡丘耳朵:pikachu ears
+    - 猪耳朵:pig ears
+    - 羊:sheep ears
+    - 松鼠耳朵:sqvirrel ears
+    - 虎耳:tiger ears
+    - 狼耳朵:Wolf ears
+    - 仿制的动物耳朵:fake animal ears
+    - 动物耳朵:animal ears
+    - 狐狸耳朵:fox ears
+    - 猫耳:cat ears
+    - 狗耳:dog ears
+    - 老鼠耳朵:moUse ears
+    - 尖耳:pointy ears
+    - 心形耳环:heart earrings
+    - 水晶耳环:crystal earrings
+    - 耳环:earrings
+    - 月牙耳环:crescent earrings
+    - 猫耳式耳机:cat ear headphones
+    - 蝙蝠耳朵:bat ears
+    - 浣熊耳朵:raccoon ears
+    - 尖尖的长耳朵:long pointy ears
+    - 遮住耳朵:covering ears
+    - 熊耳朵:bear ears
+    - 免子耳朵:rabbit ears
+    - 牛耳朵:cow ears
+    - 鼬耳朵:ferret ears
+    - 山羊耳朵:goat ears
+    - 马耳:horse ears
+    - 丸子头:topknot
+    - 外卷发型:flipped hair
+    - 触手头发:tentacle hair
+    - 很短的头发:very short hair
+    - 掀起的刘海:bangs pinned back
+    - 朝一个方向的刘海:side swept bangs
+    - 粉发:pink hair
+    - 辫子刘海:braided bangs
+    - 渐变发色:gradient hair
+    - 侧马尾:side ponytail
+    - 双辫子:twin braids
+    - 彩虹色的头发:rainbow hair
+    - 半扎发:half-up， half-down hairstyle
+    - 非对称发型:asymmetrical hair
+    - 双马尾:twintails
+    - 刘海:bangs
+    - 很长的头发:very Tong hair
+    - 斜刘海:diagonal bangs
+    - 齐刘海:blunt bangs
+    - 前马尾:front ponytail
+    - 折叠马尾:folded ponytail
+    - 麻花辫:braid
+    - 耳状头发:hair ears
+    - 单辫:single braid
+    - 编织马尾辫:braided ponytail
+    - 低双辫:Tow twin braids
+    - 秃头:bald
+    - 卷发:curly hair
+    - 侧辫:side braid
+    - 窗帘-瀑布发型:curtained hair
+    - 秃头女孩:bald girl
+    - 双团子头:double bun
+    - 冠型织辨:crown braid
+    - 丛髻:dreadlocks
+    - 寸头:buzz cut
+    - 头发后梳:hair pulled back
+    - 侧发后梳:half updo
+    - 法式辫:french braid
+    - 一侧绑发:hair one side up
+    - 双侧绑发:hair two side up
+    - 散发:hair spread out
+    - 平顶:flattop
+    - 耳后发:hair behind ear
+    - 帽盔式发型:undercut
+    - 鸟窝头-爆炸头:afro
+    - 眼间刘海:hair between eyes
+    - 漂浮的头发:floating hair
+    - 齐耳短发:bob cut
+    - 蜂窝头:beehive hairdo
+    - 直发:straight hair
+    - 交错刘海:crossed bangs
+    - 头发很多的:big hair
+    - 蓬帕杜发型:pompadour
+    - 水晶状的头发:crystal hair
+    - 蓬松感油头:quiff
+    - 团子头:hair bun
+    - 富有表现力的头发:expressive hair
+    - 玉米辫:cornrows
+    - 带着尖角的发型:pointy hair
+    - 刺刺的头发:spiked hair
+    - 遮盖头发稀少部分:comb over
+    - 进气口发型:hair intakes
+    - 莫霍克发型:mohawk
+    - 头发遮着双眼:hair over eyes
+    - 弓形头发:bow-shaped hair
+    - 大波浪:beach waves
+    - 披肩发:hair over shoulder
+    - 头发比基尼:hair bikini
+    - 头发围巾:hair scarf
+    - 短发精灵式:pixie cut
+    - 条染:streaked hair
+    - 多彩头发:multicolored hair
+    - 强调一缕一缕感的发型-发丝:hair strand
+    - 姬发式:hime cut
+    - 内侧染色:colored inner hair
+    - 有光泽的头发:shiny hair
+    - 凌乱的发髻:messy bun
+    - 湿头发:wet hair
+    - 前辫:front braid
+    - 金发:blonde hair
+    - 分层发型:layered hair
+    - 银发:silver hair
+    - 多股(麻花)辫:multiple braids
+    - 彩虹发:Rainbow hair
+    - 垂下的长暮发:hair slicked back
+    - 感的齐耳短发配刘海:sultry bob with bangs
+    - 披在两侧的两条辫子:high ponytail
+    - 盘发:up do
+    - 灰发:grey hair
+    - 侧马尾:Long braid
+    - 三股辨:tri braids
+    - 白发:white hair
+    - 法式盘发:french twist
+    - 茶发:brown hair
+    - 直发:Low-tied Tong hair
+    - 浪漫的辫子:romantic braids
+    - 波浪发型:wavy hair
+    - 低扎马尾:low ponytail
+    - 四股辫:quad braids
+    - 低扎双尾:Low twintails
+    - 质感长波浪短发:textured lob
+    - 浅褐发:light brown hair
+    - 三发髻:triple bun
+    - 侧分刘海:side-swept bangs
+    - 发圈:hair rings
+    - 黑发:black hair
+    - 丰盈有空气感:voluminous blowout
+    - 中等长发:medium hair
+    - 扎头发:tied hair
+    - 羽毛发型:feathered hair
+    - 紫发:purple hair
+    - 长发:Long hair
+    - 长直且光滑:long straight and sleek
+    - 红发:red hair
+    - 垂下的长馨发:ringlets
+    - 单发圈:single hair ring
+    - 蓝发-水色发:blue hair
+    - 披在两侧的两条辫子:side braids
+    - 凌乱发型:messy hair
+    - 披在两侧的发髻:side bun
+    - 深蓝发:dark blue hair
+    - 低辫长发:Low-braided Tong hair
+    - 分开的刘海:parted bangs
+    - 马尾辫:ponytail
+    - 尾部散开的单马尾发型:split ponytail
+    - 短发:short hair
+    - 多扎头发:multi-tied hair
+    - 浅蓝发:Tight blue hair
+    - 短马尾:short ponytail
+    - 超长的头发:absurdly Tong hair
+    - 日本发:nihongami
+    - 绿发:green hair
+    - 云絮状发型:cloud hair
+
+人物动作:
+    - 跑步:Running
+    - 玩水:wading
+    - 抬起腿:leg up
+    - 游泳:Swimming
+    - 瑜伽:yoga
+    - 足球:Football(soccer)
+    - 篮球:Basketball
+    - 综合格斗:MMA(Mixed MartialArts)
+    - 网球:Tennis
+    - 摔跤:Wrestling
+    - 排球:Volleyball
+    - 柔道:Judo
+    - 橄榄球:Rugby
+    - 棒球:Baseball
+    - 曲棍球:Hockey
+    - 洗脸:washing face
+    - 仰卧:lie on back
+    - 起床:get up
+    - 羽毛球:Badminton
+    - 坐着:sit
+    - 站立:stand
+    - 行走:walk
+    - 奔跑:run
+    - 乒乓球:Table tennis(ping-pong)
+    - 蹲下:squat
+    - 手扶着脸:hands on face
+    - 打扮:dressing up
+    - 拉手提包:carrying ahandbag
+    - 抬手:raise hand
+    - 抱拳:clench fist
+    - 抱臂:cross arms
+    - 拳击:Boxing
+    - 指向:point towards
+    - 抬腿踢球:kick a ball
+    - 自拍:selfie
+    - 抱腿:holding legs
+    - 转身踢腿:turn around and kick
+    - 弯腰捡东西:bend down to pick up something
+    - 眼神交流:eye contact
+    - 向后看:looking back
+    - 泪痕:tear stains
+    - 凝视:stare
+    - 烹饪动作:Cooking
+    - 抬头:head tilt
+    - 手放腿上:leg hold
+    - 身体前倾:leaning forward
+    - 脸贴脸:cheek-to-cheek
+    - 蹲下:Keep down
+    - 手放膝盖上:Hands on your knees
+    - 拥抱:hug
+    - 跳跃动作:Jumping
+    - 打拳:punching
+    - 踢:kicking
+    - 抱坐:knees up
+    - 在水中:partially submerged
+    - 跳舞动作:Dancing
+    - 漂浮:afloat
+    - 双脚分开:feet apart
+    - 胜利手势:peace sign
+    - 手放脸上:hand in eye
+    - 唱歌动作:Singing
+    - 仰望:look ΨP
+    - 抬起食指:index finger raised
+    - 翘大拇指:thumbsup
+    - 张开手指:spread fingers
+    - 手牵着手:holding hands
+    - 手交叉于胸前:arms crossed
+    - 扎头发:tying hair
+    - 手放在嘴边:hand to mouth
+    - 双手v手势:double peace pose
+    - 双手抱头:Rest one's head on one's hands
+    - 大笑动作:Laughing
+    - 双抬臂:arms up
+    - 靠墙:Back against wall
+    - 二郎腿:crossed legs
+    - 用手指做出笑脸:fingersmile
+    - 扶正眼镜:Gently hold your glasses
+    - 双手拨头发:hands in hair
+    - 双手相扣:own hands clasped
+    - 手放脸上:Put your hands on your face
+    - 双手托腮:Supporting cheeks with both hands
+    - 挡脸:Facepalm
+    - 双手抱臂:Fold ones arms
+    - 手撑脸:Hold face with hands
+    - 张开双臂:Open arms
+    - 指向手势:Pointing
+    - 竖大拇指:Thumb uP
+    - 哭泣动作:Crying
+    - 仰望:look up
+    - 吃东西动作:Eating
+    - 梳头:combing hair
+    - 放手:let go
+    - 拍手:clap
+    - 捧脸:hold face
+    - 搓手:rub hands together
+    - 摸头:touch head
+    - 喝水动作:Drinking
+    - 握手:shake hands
+    - 深蹲:squatting
+    - 睡觉动作:Sleeping
+    - 阅读动作:Reading
+    - 写作动作:Writing
+    - 涂画动作:Painting
+
+佩戴首饰:
+    - 胸针:brooches
+    - 圆环耳环:hoop earrings
+    - 高跟鞋:highheels
+    - 珍珠手链:Pearl bracelet
+    - 耳钉:Ear stud
+    - 耳坠:eardrop
+    - 皮质手镯:leather bracelets
+    - 吊坠:pendant
+    - 腕带:wristband
+    - 臂镯:armlet
+    - 高筒靴:thigh high boots
+    - 大项链:statement necklace
+    - 蕾丝手套:lace gloves
+    - 细带高跟鞋:ankle strap heels
+    - 蕾丝袜:lace stockings
+    - 项圈:choker necklace
+    - 手镯:bangle bracelets
+    - 水晶发夹:crystal hairpins
+    - 紧身腰带:corset belts
+    - 流苏腰带:fringe belts
+    - 细高跟短靴:stiletto booties
+    - 脚踝手镯:ankle bracelets
+    - 过膝袜:over-the-knee socks
+    - 丝巾:silk scarves
+    - 珍珠项链:pearl necklace
+    - 蕾丝面具:lace masks
+    - 系带凉鞋:lace-up sandals
+    - 裙链:backless dress chains
+    - 流苏耳环:tassel earrings
+    - 心形发饰:heart hair ornament
+    - 簪子:kanzashi
+    - 红色发带:red hairband
+    - 兽耳头罩:animal hood
+    - 蝴蝶发饰:butterfly hair ornament
+    - 戴眼镜的:bespectacled
+    - 蛇发饰:snake hair ornament
+    - 头绳:hair bobbles
+    - 羽毛头饰:feather hair ornament
+    - 蓝色发带:blue hairband
+    - 头发上系着铃销:hair belt
+    - 锚发饰:anchor hair ornament
+    - 心形眼镜:heart-shaped eyewear
+    - 兔子头饰:bunny hair ornament
+    - 骼骸头饰:skull hair ornament
+    - 护目镜:goggles
+    - 无框眼镜:rimless eyewear
+    - 下半无框眼镜:over-rim eyewear
+    - 黄色发带:yellow hairband
+    - 卡米纳墨镜:kamina shades
+    - 头上别着护目镜:goggles on head
+    - 帽子上别着护目镜:goggles on headwear
+    - 粉色发带:pink hairband
+    - 戴着头戴显示设备:head mounted display
+    - 蝴蝶结发带:bow hairband
+    - 眼睛上的疤痕:scar across eye
+    - 音符发饰:musical note hair ornament
+    - 三重冕:tiara
+    - 软呢帽:fedora
+    - 皇冠:crown
+    - 女巫帽:witch hat
+    - 脸颊上的疤痕:scar on cheek
+    - 头箍:hairband
+    - 胡萝卜发饰:carrot hair ornament
+    - 法师帽:wizard hat
+    - 发夹:hairclip
+    - 发花:hair flower
+    - 带翅膀的头盔:winged helmet
+    - 头饰:hair ornament
+    - 紫色发带:purple hairband
+    - 放下的兜帽:hood down
+    - 蝴蝶结发饰:hair bow
+    - 戴起来的兜帽:hood up
+    - 医用口罩:surgical mask
+    - 发珠:hair beads
+    - 女仆头饰:maid headdress
+    - 水手帽:sailor hat
+    - 多个蝴蝶结:multiple hair bows
+    - 圣诞帽:santa hat
+    - 口罩:mouth mask
+    - 类似警帽的帽子:peaked cap
+    - 丝带:ribbon
+    - 护时:ebow pads
+    - 蝙蝠发饰:bat hair ornament
+    - 骨发饰:bone hair ornament
+    - 太阳镜:sunglasses
+    - 东金帽子:tokin hat
+    - 发簪:hairpin
+    - 眼罩:blindfold
+    - 洛丽塔发饰:Lolita hair accessories
+    - 迷你礼帽:mini top hat
+    - 羽毛发饰:Feather hair accessory
+    - 龙角:dragon horns
+    - 头巾:kerchief
+    - 新月发饰:Crescent hair accessory
+    - 橙色发带:orange hairband
+    - 面具:mask
+    - 面纱:mouth veil
+    - 眼镜别在头上:eyewear on head
+    - 雪花发饰:snowflake hair ornament
+    - 贝雷帽:beret
+    - 头上有花:flower on head
+    - 铃铛:bell
+    - x发饰:x hair ornament
+    - 天狗面具:tengu mask
+    - 面纹:facepaint
+    - 头上戴着花冠:head wreath
+    - 兜帽:hood
+    - 兽角:horns
+    - 狐狸面具:fox mask
+    - 护士帽:nurse cap
+    - 掀到头上的面具:mask on head
+    - 黑色发带:black hairband
+    - 三叶草发饰:clover hair ornament
+    - 发箍:hair scrunchie
+    - 拉着口罩:mask pull
+    - 白色发带:white hairband
+    - 防毒面具:gas mask
+    - 月牙发饰:crescent hair ornament
+    - 发带:hair tie
+    - 恶魔的角:demon horns
+    - 青蛙发饰:frog hair ornament
+    - 蓬莱玉枝:jeweled branch of hourai
+    - 锚形项圈:anchor choker
+    - 食物发饰:food-themed hair ornament
+    - 鱼形发饰:fish hair ornament
+    - 珠子项链:bead necklace
+    - 额前有宝石:forehead jewel
+    - 星星发饰:star hair ornament
+    - 耳机:headphones
+    - 护额:forehead protector
+    - 从后脑戴上的耳机:behind-the-head headphones
+
+物品:
+    - 拿着剑:holding sword
+    - 球拍:tennis racket
+    - 手杖:cane
+    - 相机:camera
+    - 双肩包:backpack
+    - 书包:school bag
+    - 肩背书包:satchel
+    - 手机:smartphone
+    - 铃铛:jingle bell
+    - 灯笼:lantern,lamp
+    - 茶杯:teacup
+    - 香烟:cigarette
+    - 鲷鱼烧:taiyaki
+    - 冰激凌:ice cream
+    - 日本酒:sake
+    - 吉他:guitar
+    - 钢琴:piano
+    - 便当:obento
+    - 麦克风:microphone
+    - 眼镜:with glasses
+    - 洗发水:Shampoo
+    - 沐浴乳:Body Wash
+    - 拿着书:holding book
+    - 拿着剑:holding sword
+    - 球拍:tennis racket
+    - 手杖:cane
+    - 相机:camera
+    - 双肩包:backpack
+    - 书包:school bag
+    - 肩背书包:satchel
+    - 手机:smartphone
+    - 铃铛:jingle bell
+    - 灯笼:lantern,lamp
+    - 茶杯:teacup
+    - 香烟:cigarette
+    - 鲷鱼烧:taiyaki
+    - 冰激凌:ice cream
+    - 日本酒:sake
+    - 吉他:guitar
+    - 钢琴:piano
+    - 便当:obento
+    - 麦克风:microphone
+    - 眼镜:with glasses
+    - 洗发水:Shampoo
+    - 沐浴乳:Body Wash
+    - 拿着书:holding book
+    - 耳机:earphone
+    - 键盘:keyboard
+    - 手表:watch
+    - 首饰:jewelry
+    - 商品:Commodities
+    - 鞋子:shoes
+    - 衣服:clothes
+    - 包包:bag
+    - 帽子:hat
+    - 眼镜:glasses
+    - 图书:book
+    - 手机:phone
+    - 笔记本电脑:laptop
+    - 平板电脑:tablet
+    - 化妆品:cosmetics
+    - 口红:Lipsticks
+    - 护肤品:Skincare Products
+    - 化妆包:Cosmetic Bags
+    - 香水:Perfume
+    - 保湿霜:moisturizer
+    - 蛋糕:cake
+    - 食品:food
+    - 饮:drink
+    - 柠檬汽水:emonade
+    - 酒精饮料:Alcoholic beverage
+    - 酒:wine
+    - 糖果:Candy
+    - 咖啡:Coffee
+    - 面包:Bread
+    - 巧克力:Chocolate
+    - 茶:Tea
+    - 乳酪:Cheese
+    - 冰块:ice cubes
+    - 薄荷叶:mint leaves
+    - 石灰岩:Limestone
+    - 沙岩:Sandstone
+    - 安山岩:Andesite
+    - 玄武岩:Basalt
+    - 石英岩:Quartzite
+    - 珊瑚:Coral
+    - 洞岩 - 石灰华:Travertine
+    - 紫水晶:Amethyst
+    - 石英:Quartz
+    - 钻石:Diamond
+    - 亚历山大石-变色石:Alexandrite
+    - 金绿玉:Chrysoberyl
+    - 电气石（碧玺）:Tourmaline
+    - 橄榄石:Olivine,Peridot
+    - 玛瑙:Agate
+    - 丹泉石(坦桑石):Tanzanite
+    - 蓝铜矿-石青:Azurite
+    - 莫桑石(像钻石):Moissanite
+    - 萤石:Fluorite
+    - 摩根石:Morganite
+    - 空气炸锅:Air Fryer
+    - 空气净化器:Air Purifier
+    - 电风扇:Electric fan
+    - 榨汁机:Juice Extractor
+    - 微波炉:Microwave Oven
+    - 吸尘器:Vacuum cleaner
+    - 吹风机:hairdryer
+    - 电饭锅:Rice cooker
+    - 灯具:lamp
+    - 抱枕:pillow
+    - 沙发:sofa
+    - 桌椅:table and chair
+    - 床:Bed
+
+动物:
+    - 长鼻浣熊:Northern White-Cheeked Gibbon
+    - 蜥蜴:Lizard
+    - 猫头鹰:Owl
+    - 水獭:Otter
+    - 黄鳍金枪鱼:Yellowfin Tuna
+    - 尿酸鳄:Uric Acid Crocodile
+    - 长尾猴:Long-tailed monkey
+    - 豹子:Leopard
+    - 辣妹鸵鸟:Ostrich
+    - 企鹅:Penguin
+    - 灰熊:Grizzly bear
+    - 三角鲸:Triangle whale
+    - 针鼹鼠:Needle mole
+    - 错综壮碧绿翅膀蝴蝶:Complex blue-green wing butterfly
+    - 屏风鼓啄木鸟:Screen drum woodpecker
+    - 公鸭:Drake
+    - 山地牦牛:Mountain Yak
+    - 红色食蚁兽:Red Anteater
+    - 梅花鹿:Reindeer
+    - 海狮:Sea lion
+    - 灰蚂蚁:Gray ant
+    - 斑点野猪:Spotted Wild Boar
+    - 动物:Animal
+    - 狗:dog
+    - 猫:cat
+    - 鸟:bird
+    - 鱼:fish
+    - 熊猫:panda
+    - 老虎:tiger
+    - 乌龟:Turtle
+    - 狮子:Lion
+    - 鹿:Deer
+    - 大熊猫:Giant Panda
+    - 长颈鹿:Giraffe
+    - 袋鼠:Kangaroo
+    - 老虎:Tiger
+    - 沙蚕:Sandworm
+    - 黑猩猩:Chimpanzee
+    - 梦魇蛛:Nightmare spider
+    - 鳄鱼幼崽:Crocodile hatchling
+    - 浣熊:Racoon dog
+    - 鳄鱼:Crocodile
+    - 熊猫:Panda
+    - 猩猩:Orangutan
+    - 斑点青蛙:Spotted frog
+    - 斑马:Zebra
+    - 龙:Dragon
+    - 大猩猩:Gorilla
+    - 猞猁:Siberian Lynx
+    - 北极熊:Polar Bear
+    - 美洲野牛:American Bison
+    - 大象:Elephant
+    - 北美黑熊:American Black Bear
+    - 豹纹鲨:Leopard Shark
+    - 北极狗:Arctic dog
+    - 北极狐:Arctic Fox
+    - 比目鱼:Flatfish
+    - 北极兔:Arctic rabbit
+    - 北极貂:Arctic sable
+    - 像鸟类:Aves
+    - 负鼠:Marsupial
+    - 河马:Hippopotamus
+    - V字神经鱼:V-shaped neuromodulator fish
+    - 斑点水獭:River Otter
+    - 花豹:Jaguar
+    - 狮子:lion
+    - 美洲狮:Mountain Lion
+    - 山地斑羚:Mountain antelope
+    - 大象:elephant
+    - 长颈鹿:giraffe
+    - 树懒:Sloth
+    - 松鼠:Squirrel
+    - 斑马:zebra
+    - 老鹰:Eagle
+    - 猴子:monkey
+    - 兔子:rabbit
+    - 山岭巨蜥:Mountain Lizard
+    - 鼠:mouse
+    - 北美狼:Gray Wolf
+    - 牛:COW
+    - 麻鸡:Ptarmigan
+    - 羊:sheep
+    - 虎斑猫:Leopard cat
+    - 马:horse
+    - 普通浣熊:Raccoon
+    - 鸭子:duck
+    - 腹足类:Mollusk
+    - 鹅:goose
+    - 辣妹猩猩:Stunning Chimpanzee
+    - 猪:pig
+    - 急性子鬣狗:Impatient Aardwolf
+    - 长鼻浣熊:Northern White-Cheeked Gibbon
+    - 蜥蜴:Lizard
+    - 猫头鹰:Owl
+    - 水獭:Otter
+    - 黄鳍金枪鱼:Yellowfin Tuna
+    - 尿酸鳄:Uric Acid Crocodile
+    - 长尾猴:Long-tailed monkey
+    - 豹子:Leopard
+    - 辣妹鸵鸟:Ostrich
+    - 企鹅:Penguin
+    - 灰熊:Grizzly bear
+    - 三角鲸:Triangle whale
+    - 针鼹鼠:Needle mole
+    - 错综壮碧绿翅膀蝴蝶:Complex blue-green wing butterfly
+    - 屏风鼓啄木鸟:Screen drum woodpecker
+    - 公鸭:Drake
+    - 山地牦牛:Mountain Yak
+    - 红色食蚁兽:Red Anteater
+    - 梅花鹿:Reindeer
+    - 海狮:Sea lion
+    - 灰蚂蚁:Gray ant
+    - 斑点野猪:Spotted Wild Boar
+    - 动物:Animal
+    - 狗:dog
+    - 猫:cat
+    - 鸟:bird
+    - 鱼:fish
+    - 熊猫:panda
+    - 老虎:tiger
+    - 乌龟:Turtle
+    - 狮子:Lion
+    - 鹿:Deer
+    - 大熊猫:Giant Panda
+    - 长颈鹿:Giraffe
+    - 袋鼠:Kangaroo
+    - 老虎:Tiger
+    - 沙蚕:Sandworm
+    - 黑猩猩:Chimpanzee
+    - 梦魇蛛:Nightmare spider
+    - 鳄鱼幼崽:Crocodile hatchling
+    - 浣熊:Racoon dog
+    - 鳄鱼:Crocodile
+    - 熊猫:Panda
+    - 猩猩:Orangutan
+    - 斑点青蛙:Spotted frog
+    - 斑马:Zebra
+    - 龙:Dragon
+    - 大猩猩:Gorilla
+    - 猞猁:Siberian Lynx
+    - 北极熊:Polar Bear
+    - 美洲野牛:American Bison
+    - 大象:Elephant
+    - 北美黑熊:American Black Bear
+    - 豹纹鲨:Leopard Shark
+    - 北极狗:Arctic dog
+    - 北极狐:Arctic Fox
+    - 比目鱼:Flatfish
+    - 北极兔:Arctic rabbit
+    - 北极貂:Arctic sable
+    - 像鸟类:Aves
+    - 负鼠:Marsupial
+    - 河马:Hippopotamus
+    - V字神经鱼:V-shaped neuromodulator fish
+    - 斑点水獭:River Otter
+    - 花豹:Jaguar
+    - 狮子:lion
+    - 美洲狮:Mountain Lion
+    - 山地斑羚:Mountain antelope
+    - 大象:elephant
+    - 长颈鹿:giraffe
+    - 树懒:Sloth
+    - 松鼠:Squirrel
+    - 斑马:zebra
+    - 老鹰:Eagle
+    - 猴子:monkey
+    - 兔子:rabbit
+    - 山岭巨蜥:Mountain Lizard
+    - 鼠:mouse
+    - 北美狼:Gray Wolf
+    - 牛:COW
+    - 麻鸡:Ptarmigan
+    - 羊:sheep
+    - 虎斑猫:Leopard cat
+    - 马:horse
+    - 普通浣熊:Raccoon
+    - 鸭子:duck
+    - 腹足类:Mollusk
+    - 鹅:goose
+    - 辣妹猩猩:Stunning Chimpanzee
+    - 猪:pig
+    - 急性子鬣狗:Impatient Aardwolf
+
+植物:
+    - 花:flower
+    - 草:grass
+    - 树:tree
+    - 叶子:leaf
+    - 果子:fruit
+    - 鸢尾花:Iris
+    - 鸡冠花:Celosia
+    - 菜:vegetable
+    - 橡树:Oak tree
+    - 丁香:Lilac
+    - 果树:Fruit tree
+    - 柳树:Willow tree
+    - 蘑菇:mushroom
+    - 黄杨:Boxwood
+    - 梧桐:Paulownia
+    - 榕树:Banyan tree
+    - 野花:Wildflower
+    - 桦树:Birch tree
+    - 椴树:Tulip tree
+    - 藤:vine
+    - 开花:Blossom
+    - 槲树:Beech tree
+    - 樟树:Camphor tree
+    - 桉树:Eucalyptus tree
+    - 紫苏:Shiso
+    - 橄榄树:Olive tree
+    - 银杏树:Ginkgo tree
+    - 竹子:bamboo
+    - 樱花树:Cherry blossom tree
+    - 龙胆:Gentian
+    - 菩提树:Bodhi tree
+    - 荔枝树:Litchi Tree
+    - 苹果树:Apple Tree
+    - 芦苇:reed
+    - 金银花:Honeysuckle
+    - 芒果树:Mango Tree
+    - 柠檬树:Lemon Tree
+    - 紫红色花:Fuchsia
+    - 枇杷树:Loquat Tree
+    - 核桃树:Walnut Tree
+    - 椰子树:Coconut Tree
+    - 棕榈:palm
+    - 柿子树:Persimmon Tree
+    - 绿萝:Scindapsus
+    - 仙人掌:Cactus
+    - 松树:Pine
+    - 狗尾草:Bristlegrass
+    - 含羞草:Sensitive Plant
+    - 松:pine
+    - 捕蝇草:Dionaea Muscipula
+    - 冷杉:Fir
+    - 向日葵:Sunflower
+    - 云杉:Spruce
+    - 牵牛花:Morning glory
+    - 风信子:Hyacinth
+    - 桔梗:Platycodon grandiflorum
+    - 侧柏:Arborvitae
+    - 康乃馨:Carnation
+    - 梅:plum
+    - 风铃草:Bellflower
+    - 落叶松:Larch
+    - 唐菖蒲:Gladiole
+    - 龙胆花:Gentian.
+    - 柏树:Cypress
+    - 兰:orchid
+    - 红杉:Sequoia
+    - 柚木:Teak
+    - 榉木:Beech
+    - 山毛榉:Fagaceae
+    - 橡木 - 栎树:Oak
+    - 檀木:Sandalwood
+    - 玫瑰:rose
+    - 牡丹:peony
+    - 非洲紫罗兰:African_Violet
+    - 高山植物:Alpine_Plant
+    - 满天星:Babys_Breath
+    - 气球花:Balloon_Flower
+    - 蜜蜂膏:Bee_Balm
+    - 天堂鸟花:Bird of Paradise Flower
+    - 菊花茶:Chrysanthemum Tea
+    - 花茶:Flower Tea
+    - 开花植物:Flowering Plant
+    - 山谷里的百合:Lily of the Valley
+    - 夜花-茉莉花:Night-Blooming Jasmine
+
+国风:
+    - 武术:Martial Arts
+    - 功夫:Kung Fu
+    - 咏春:Wing Tsun
+    - 太极拳:Tai Chi Chuan
+    - 春卷:Spring rolls
+    - 月饼:Mooncakes
+    - 汤圆:Tangyuan
+    - 火锅:Hot pot
+    - 年糕:Rice cakes
+    - 北京烤鸭:Peking duck
+    - 点心:Dim sum
+    - 葱油饼:Scallion pancakes
+    - 烤栗子:Roasted chestnuts
+    - 豆浆:Soy milk
+    - 炒饭:Fried rice
+    - 面条:Noodles
+    - 茶蛋:Tea eggs
+    - 饺子:Dumplings
+    - 齐白石:Qi Bai shi
+    - 瓷:Porcelain
+    - 园林:Gardens
+    - 亭子:Pavilion
+    - 寺庙:Temple
+    - 颐和园:Summer Palace
+    - 牡丹:Peony
+    - 莲花:Lotus
+    - 竹子:Bamboo
+    - 剪纸:papercut craft
+    - 中国剪纸:Chinese Paper Art
+    - 莲花:lotus
+    - 衍纸艺术又叫卷纸装饰工艺:paper quilling art
+    - 中国灯笼:Chinese lanterns
+    - 仙鹤:crane
+    - 笛子:Flute
+    - 油纸伞:Paper umbrella
+    - 武侠:wuxia
+    - 白虎:WhiteTiger
+    - 嫦娥奔月:Chang'e Flies to the Moon
+    - 周公摘星:Zhou Gong Picks the Stars
+    - 春节:Chinese New Year
+    - 元宵节:Lantern Festival
+    - 端午节:DragonBoat Festival
+    - 中秋节:Mid-Autumn Festival
+    - 重阳节:Chong yang Festival
+    - 中元节:Zhong yuan Festival
+    - 丝绸:Silk
+    - 雕漆:Lacquerware
+    - 筷子:Chopsticks
+    - 印章:Chinese seal
+    - 剪纸:Paper-cutting
+    - 皮影戏:Shadow puppetry
+    - 景泰蓝:Cloisonne
+    - 茶具:Teaset
+    - 毛笔:Chinese calligraphy brush
+    - 三国:Three Kingdoms
+    - 晋朝:Jin Dynasty
+    - 南北朝:Northern and Southern Dynasties
+    - 隋朝:Sui Dynasty
+    - 唐朝:Tang Dynasty
+    - 五代十国:Five Dynasties and Ten Kingdoms
+    - 宋朝:Song Dynasty
+    - 元朝:Yuan Dynasty
+    - 明朝:Ming Dynasty
+    - 清朝:Qing Dynasty
+    - 夏朝:Xia Dynasty
+    - 商朝:Shang Dynasty
+    - 周朝:Zhou Dynasty
+    - 秦朝:Qin Dynasty
+    - 汉朝:Han Dynasty
+    - 斗拱彩梁:carved beams and painted rafters
+    - 格子窗:lattice window
+    - 木门:wooden doors
+    - 转角:curved ridge
+    - 中华拱:Chinese arch
+    - 清真菜:Halal Cuisine
+    - 滇菜:Yunnan Cuisine
+    - 蒙古菜:Mongolian Cuisine
+    - 西北菜:Northwestern Cuisine
+    - 苏菜:Jiangsu Cuisine
+    - 家常菜:Home-style Cuisine
+    - 素菜:Vegetarian Cuisine
+    - 川菜:Sichuan Cuisine
+    - 鲁菜:Shandong Cuisine
+    - 粤菜:Cantonese Cuisine
+    - 湘菜:Hunan Cuisine
+    - 闽菜:Fujian Cuisine
+    - 徽菜:Anhui Cuisine
+    - 东北菜:Northeastern Cuisine
+    - 江浙菜:Jiangsu-Zhejiang Cuisine
+    - 武陵源风景名胜区:Wu ling yuan Scenic Area
+    - 武夷山:Mount Wuyi
+    - 莫高窟:Mogao Caves
+    - 宏村古村落:Hong cun Ancient Village
+    - 黄果树瀑布:Huang guo shu Waterfall
+    - 三亚海滩:Sanya Beach
+    - 泰山:Taishan Mountain
+    - 壶口瀑布:Hukou Waterfall
+    - 元阳梯田:Yuan yang Rice Terraces
+    - 龙门石窟:Long men Grottoes
+    - 婺源古村落:Wu yuan Ancient Village
+    - 石林:Stone Forest
+    - 峨眉山:Mount Emei
+    - 青城山:Qing cheng Mountain
+    - 黄岗山:Mount Huang gang
+
+神话人物:
+    - 嫦娥,月亮和长生不老之神:Chang'e
+    - 玉皇大帝,天地之尊和天堂的统治者:Jade Emperor
+    - 关羽,战争、忠诚和正义之神:Guan Yu
+    - 妈祖,海洋和航海者的守护神:Mazu
+    - 观音菩萨,慈悲和同情之神:Guan Yin
+    - 韦驮菩萨,武术和佛教的守护神:Skanda Bodhisattva
+    - 阿多尼斯,美和欲望之神:Adonis
+    - 阿瑞斯,战争和暴力之神:Ares
+    - 阿尔忒弥斯:Artemis
+    - 雅典娜,智慧、战争和手艺之女神:Athena
+    - 巴库斯,酒、狂欢和疯狂之神:Bacchus
+    - 比亚,力量和权力之女神:Biae
+    - 谷物女神瑟菜斯,农业、谷物和生育之神:Ceres
+    - 西尔凯,魔法和巫术之女神:Circe
+    - 克洛诺斯,时间和时代之泰坦神:Cronus
+    - 丘比特,爱和吸引之神:Cupid
+    - 赛伯勒。弗里吉亚母亲女神:Cybele
+    - 狄蜜特,农业、生育和收成之女神:Demeter
+    - 狄俄尼索斯,酒、节庆和狂欢之神:Dionysus
+    - 艾拉托,爱情诗之缪斯:Erato
+    - 爱神艾洛斯,爱和欲望之神:Eros
+    - 法乌努斯,森林、平原和田野之神:Faunus
+    - 福图娜,幸运和命运之女神:Fortuna
+    - 冥王哈迪斯,冥界和死亡之神:Hades
+    - 黑卡忒,魔法、巫术和幽灵之女神:Hecate
+    
+山海经:
+    - 青龙:Azure Dragon
+    - 犀兽:Rhinoceros
+    - 大角怪:Big-Horned Monster
+    - 北美黑熊:Black Bear
+    - 黑骆驼:Black Camel
+    - 骆驼怪:Camel Monster
+    - 鲤鱼怪:Carp Monster
+    - 铜獐:Copper Deer
+    - 螃蟹怪:Crab Monster
+    - 狗面怪:Dog-Faced Monster
+    - 龙龟:Dragon Tortoise
+    - 东皇:Eastern Emperor
+    - 火狻:Fire Lion
+    - 火犀兽:Fire Rhinoceros
+    - 火鸟:Firebird
+    - 鱼怪:Fish Monster
+    - 融合兽:Fusion Beast
+    - 鬼蟹怪:Ghost Crab Monster
+    - 鬼将:Ghost General
+    - 巨鸟:Giant Bird
+    - 金狮:Golden Lion
+    - 金睛怪:Golden-Eyed Monster
+    - 青蛇怪:Green Snake Monster
+    - 走马狻:Horse-Like Beast
+    - 铁甲蜥蜴:Iron-Plated Lizard
+    - 猕猴:Macaque
+    - 噬人怪:Man-Eating Monster
+    - 山马:Mountain Horse
+    - 山灵:Mountain Nymph
+    - 山神:Mountain Spirit
+    - 山甲兽:Mountain Tortoise
+    - 九尾狐:Nine-Tailed Fox
+    - 牛头怪:Ox-Headed Monster
+    - 桃花精:Peach Blossom Spirit
+    - 凤凰:Phoenix
+    - 紫煞:Purple Fiend
+    - 江神:River God
+    - 白狼:White Wolf
+    - 独角兽:Unicorn
+    - 白嘴怪:White-Mouthed Monster
+    - 风伯:Wind God
+    - 夜叉:Yaksha
+    - 黄龙:Yellow Dragon
+
+二次元:
+    - 美少女战士:Sailor Moon
+    - 银魂:Gintama
+    - 紫罗兰永恒花园:Violet Evergarden
+    - 宠物小精灵:Pokemon
+    - 新世纪福音战士:Neon Genesis Evangelion
+    - 魔卡少女樱:Cardcaptor Sakura
+    - 海贼王:One Piece
+    - 灌篮高手:SLAM DUNK
+    - 高达:Gundam
+    - 火影忍者:Naruto
+    - 鬼灭之刃:Demon Slayer
+    - 数码宝贝:Digimon
+    - 名侦探柯南:Detective Conan
+    - 死神:Bleach
+    - 塞尔达传说:The Legend of Zelda
+    - 原神:Genshin Impact
+    - 疯狂的:crazy
+    - 元气的:Energetic
+    - 天然呆的:corky
+    - 病娇的:yandere
+    - 腼腆的:shy
+    - 活泼的:lively
+    - 调皮的:mischievous
+    - 温柔的:gentle
+    - 孤僻的:solitary
+    - 邪恶的:wicked
+    - 死神:Shinigami
+    - 忍者:Ninja
+    - 吉卜力:Ghibli Studio
+    - 京阿尼动画:Kyoto Anmation
+    - 宇智波佐助:Sasuke Uchiha
+    - 炭治郎:Charcoal Jirou
+    - 称豆子:Nezuko Kamado
+    - 动漫角色:anime character
+    - 漩涡鸣人:Uzumaki Naruto
+    - 卡卡西:Kakashi Hatake
+    - 路飞:Luffy
+    - 罗罗诺亚·索隆:Roronoa Zoro
+    - 明日香:Asuka Langley Soryu
+    - 绫波丽:Rei Ayanami
+    - 三笠:Mikasa Ackerman
+    - 利威尔:Levi Ackerman
+    - 皮卡丘:Pikachu
+    - 坂田银时:Gintoki Sakata
+    - 美少女战士:Sailor Moon
+    - 银魂:Gintama
+    - 紫罗兰永恒花园:Violet Evergarden
+    - 宠物小精灵:Pokemon
+    - 新世纪福音战士:Neon Genesis Evangelion
+    - 魔卡少女樱:Cardcaptor Sakura
+    - 海贼王:One Piece
+    - 灌篮高手:SLAM DUNK
+    - 高达:Gundam
+    - 火影忍者:Naruto
+    - 鬼灭之刃:Demon Slayer
+    - 数码宝贝:Digimon
+    - 名侦探柯南:Detective Conan
+    - 死神:Bleach
+    - 塞尔达传说:The Legend of Zelda
+    - 原神:Genshin Impact
+
+漫威人物:
+    - 无敌浩克:Immortal Hulk
+    - 幽灵骑士:Ghost Rider
+    - 死侍:Deadpool
+    - 女绿巨人:She-Hulk
+    - X武器:Weapon X
+    - 神盾局局长:Nick Fury
+    - 战争机器:War Machine
+    - 反浩克装甲:Hulkbuster
+    - 快银:Iron Fist (Danny Rand)
+    - 战争机器:War Machine
+    - 地狱风暴:Daimon Hellstrom
+    - 浩克（泽玛·陶隆）:Hulk (Amadeus Cho)
+    - 海少侠:Aqualad
+    - 电王:Electro
+    - 钢铁侠:Iron Man
+    - 屠杀:Carnage
+    - 美国队长:Captain America
+    - 异形:Alien
+    - 绿巨人:Hulk
+    - 蜘蛛侠:Spider-Man
+    - 女浩克:She-Hulk (Jennifer Walters)
+    - 雷神:Thor
+    - 黑寡妇:Black Widow
+    - 鹰眼:Hawkeye
+    - 蚁人:Ant-Man
+    - 奇异博士:Doctor Strange
+    - 黑豹:Black Panther
+    - 惊奇队长:Captain Marvel
+    - 星爵:Star-Lord
+    - 格鲁特:Groot
+    - 火箭:Rocket Raccoon
+    - 猩红女巫:Scarlet Witch
+    - 冬兵:Winter Soldier
+    - 金刚狼:Wolverine
+    - 钢铁蜘蛛:Iron Spider
+    - 蜘蛛女侠:Spider-Woman
+
+
+负面:
+    - EasyNegative
+    - DeepNegativeV1.x_V175T
+    - badhandv4
+    - bad-hands-5
+    - bad_prompt_version2-neg
+    - bad-artist-anime
+    - EasyNegativeV2
+    - negative_hand-neg
+    - (worst quality),(low quality),(normal quality),lowres,bad anatomy,((bad hands,broken hands)),(many fingers),((grayscale)) watermark,moles,
+    - worst quality, low quality, normal quality, lowres, normal quality
+    - Blurry, Text, Watermark, Signature, Frame, jpeg artifacts
+    - Black and white, monochrome, grayscale
+    - Disfigured Face, Disfigured Eyes, Disfigured Pupils,uneven eyes, lazy eye, unnatural skin
+    - Disfigured Hands, Disfigured Fingers, Disfigured Arms, unhealthy hands, mutated hand
+    - Disfigured Legs, Disfigured Toes, extra legs, fused legs
+    - Disfigure Body, Disfigured Torso, unhealthy deformed joints, extra limbs
+    - score_6, score_5, score_4, score_3, 

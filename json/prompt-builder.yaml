@@ -1,0 +1,777 @@
+质量:
+    - professional, finest details, masterpiece, best quality
+    - highly detailed, extremely detailed, intricate details
+    - score_9, score_8_up, score_7_up, score_6_up
+    - 8K分辨率:8K Resolution
+    - 超高清:Ultra HD
+    - 超清晰:Super Clarity
+    - 高清:High Definition
+    - 超高分辨率:Ultra-high Resolution
+    - 超高清HDR:Ultra HD HDR
+    - 超高清晰:Ultra-high Definition
+    - 超高清画面:Ultra HD Picture
+    - 高细节:High Detail
+    - 高品质:Hyper Quality
+    - 高分辨率:High Resolution
+    - 16K分辨率:16K Resolution
+    - 超高清晰度:Ultra-high Clarity
+    - 完美阴影:Perfect Shadows
+    - 完美照明:perfect lighting
+    - (worst quality),(low quality),(normal quality),lowres,bad anatomy,((bad hands,broken hands)),(many fingers),((grayscale)) watermark,moles,
+    - worst quality, low quality, normal quality, lowres, normal quality
+    - Blurry, Text, Watermark, Signature, Frame, jpeg artifacts
+    - Black and white, monochrome, grayscale
+    - Disfigured Face, Disfigured Eyes, Disfigured Pupils,uneven eyes, lazy eye, unnatural skin
+    - Disfigured Hands, Disfigured Fingers, Disfigured Arms, unhealthy hands, mutated hand
+    - Disfigured Legs, Disfigured Toes, extra legs, fused legs
+    - Disfigure Body, Disfigured Torso, unhealthy deformed joints, extra limbs
+    - score_6, score_5, score_4, score_3, 
+    - embeddings
+    - EasyNegative
+    - DeepNegativeV1.x_V175T
+    - badhandv4
+    - bad-hands-5
+    - bad_prompt_version2-neg
+    - bad-artist-anime
+    - EasyNegativeV2
+    - negative_hand-neg
+
+
+拍摄相机:
+    - 佳能 AE-1:shot on Canon AE-1
+    - 佳能 EOS 5D Mark IV:shot on Canon EOS 5D Mark IV
+    - 佳能 EOS R10:shot on Canon EOS R10
+    - 佳能 EOS R3:shot on Canon EOS R3
+    - 佳能 EOS R5:shot on Canon EOS R5
+    - 佳能 EOS R6 Mark II:shot on Canon EOS R6 Mark II
+    - 佳能 EOS R7:shot on Canon EOS R7
+    - 佳能 F-1:shot on Canon F-1
+    - 佳能 PowerShot G7 X Mark III:shot on Canon PowerShot G7 X Mark III
+    - 康泰时 T2:shot on Contax T2
+    - 大疆 Osmo Pocket 3:shot on DJI Osmo Pocket 3
+    - 富士 GFX 100S:shot on Fujifilm GFX 100S
+    - 富士 X-H2S:shot on Fujifilm X-H2S
+    - 富士 X-S20:shot on Fujifilm X-S20
+    - 富士 X-T5:shot on Fujifilm X-T5
+    - 富士 X100V:shot on Fujifilm X100V
+    - 谷歌 Pixel 8 Pro:shot on Google Pixel 8 Pro
+    - GoPro Hero12 Black:shot on GoPro Hero12 Black
+    - 哈苏 500C:shot on Hasselblad 500C
+    - 哈苏 X2D 100C:shot on Hasselblad X2D 100C
+    - iPhone 15 Pro Max:shot on iPhone 15 Pro Max
+    - 柯达 Brownie:shot on Kodak Brownie
+    - 徕卡 M11:shot on Leica M11
+    - 徕卡 M3:shot on Leica M3
+    - 徕卡 Q2:shot on Leica Q2
+    - 玛米亚 RB67:shot on Mamiya RB67
+    - 美能达 X-700:shot on Minolta X-700
+    - 尼康 D850:shot on Nikon D850
+    - 尼康 F:shot on Nikon F
+    - 尼康 F3:shot on Nikon F3
+    - 尼康 Z50:shot on Nikon Z50
+    - 尼康 Z6 II:shot on Nikon Z6 II
+    - 尼康 Z7 II:shot on Nikon Z7 II
+    - 尼康 Z9:shot on Nikon Z9
+    - 奥林巴斯 OM-1:shot on Olympus OM-1
+    - 奥林巴斯 OM-D E-M1 Mark III:shot on Olympus OM-D E-M1 Mark III
+    - 松下 Lumix GH6:shot on Panasonic Lumix GH6
+    - 松下 Lumix S5 II:shot on Panasonic Lumix S5 II
+    - 宾得 K1000:shot on Pentax K1000
+    - 飞思 XF IQ4 150MP:shot on Phase One XF IQ4 150MP
+    - 宝丽来 SX-70:shot on Polaroid SX-70
+    - 禄来 2.8F:shot on Rolleiflex 2.8F
+    - 三星 Galaxy S24 Ultra:shot on Samsung Galaxy S24 Ultra
+    - 索尼 A1:shot on Sony A1
+    - 索尼 A6700:shot on Sony A6700
+    - 索尼 A7 IV:shot on Sony A7 IV
+    - 索尼 A7R V:shot on Sony A7R V
+    - 索尼 A9 II:shot on Sony A9 II
+    - 索尼 RX100 VII:shot on Sony RX100 VII
+    - 索尼 ZV-1:shot on Sony ZV-1
+    - 雅西卡 Mat-124G:shot on Yashica Mat-124G
+摄影师:
+    - （B&W）阿尔弗雷德·斯蒂格里茨:From the works of photographer Alfred Stieglitz
+    - （B&W）内森·沃斯:From the works of photographer Nathan Wirth
+    - （B&W）欧仁·阿杰特:From the works of photographer Eugène Atget
+    - （B&W）安塞尔·亚当斯:From the works of photographer Ansel Adams
+    - （B&W）多萝西娅·兰格:From the works of photographer Dorothea Lange
+    - （B&W）亨利·卡蒂埃-布列松:From the works of photographer Henri Cartier-Bresson
+    - （B&W）薇薇安·迈尔:From the works of photographer Vivian Maier
+    - （人像）斯蒂夫·麦凯瑞:From the works of photographer Steve McCurry
+    - （人像）荒木经惟:From the works of photographer Nobuyoshi Araki
+    - （人像）蜷川实花（日本）:From the works of photographer Mika Ninagawa
+    - （人像）今城纯（日本）:From the works of photographer Jun Imajou
+    - （人像）郎静山（中国）:From the works of photographer Lang Jingshan
+    - （风景）乔尔·迈耶罗维茨:From the works of photographer Joel Meyerowitz
+    - （风景）威廉·克莱因:From the works of photographer William Klein
+    - （风景）川内伦子:From the works of photographer Rinko Kawauchi
+    - （风景）杉本博司:From the works of photographer Hiroshi Sugimoto
+    - （风景）横浪修（日本）:From the works of photographer Osamu Yokonami
+    - （All）南·戈尔丁:From the works of photographer Nan Goldin
+    - （All）森山大道:From the works of photographer Daidō Moriyama
+    - （All）木村伊兵卫:From the works of photographer Kimura Ihee
+    - （All）张照堂（中国台湾）:From the works of photographer Chang Chaotang
+    - （All）荣荣（中国）:From the works of photographer Rong Rong
+    - （Color）仓岩诗织（日本）:From the works of photographer Iwakura Shiori(岩仓しおり)
+    - （Color）何藩（中国香港）:From the works of photographer Fan Ho
+    - （Color）吕楠（中国）:From the works of photographer Lv Nan
+    - （Color）马丁·帕尔:From the works of photographer Martin Parr
+    - （Color）奥山由之（日本）:From the works of photographer Yoshiyuki Okuyama
+    - （Color）宫崎泉美（日本）:From the works of photographer Izumi Miyazaki
+    - （Color）兼子裕代（日本）:From the works of photographer Hiroyo Kaneko
+    - （Color）小林纪晴（日本）:From the works of photographer Kisei Kobayashi
+    - （Color）长能丰一（日本）:From the works of photographer Toyokazu Nagano
+    - （Color）周扬（中国）:From the works of photographer Zhou Yang
+    - （Color）黄永翔（中国）:From the works of photographer Huang Yongxiang
+拍摄参数:
+    - 背景虚化效果:aperture F1.8-F2.8,shutter 1/200s,ISO-200
+    - 流水拉丝效果:aperture F8-F16,shutter 1/15s,ISO-100
+    - 夜景星空拍摄效果:aperture F2.8-F4,shutter 15s,ISO-2000
+    - 运动物体定格效果:aperture F5.6-F8,shutter 1/2000s,ISO-800
+    - 全景深风景拍摄效果:aperture F11-F16,shutter 1/100s,ISO-100
+    - 创意光绘效果:aperture F5.6-F8,shutter 10s,ISO-200
+    - 逆光剪影效果:aperture F8 - F16,shutter 1/125s-1/500s,ISO-100
+    - 微距拍摄效果:aperture F5.6-F8,shutter 1/100s,ISO-200
+    - 低角度仰拍建筑效果:aperture F5.6-F11,shutter 1/125s,ISO-100
+    - 日出日落暖色调效果:aperture F4-F8,shutter 1/60s-1/200s,ISO-200
+    - 室内人像拍摄效果:aperture F2.8-F4,shutter 1/100s,ISO-400
+    - 城市夜景灯光效果:aperture F4-F8,shutter 1/30s-1/100s,ISO-800
+    - 雪景拍摄效果:aperture F8-F11,shutter 1/200s,ISO-200
+    - 雾景朦胧效果:aperture F5.6-F8,shutter 1/60s-1/125s,ISO-200
+    - 古建筑细节拍摄效果:aperture F8-F11,shutter 1/100s,ISO-100
+胶片风格:
+    - 数码单反相机(Photo, DSLR):Photo, DSLR
+    - 模拟照片(Analog Photo):Analog Photo
+    - 洛米奥(Lomography Photo):Lomography Photo
+    - 针孔照片(Pinhole Photo):Pinhole Photo
+    - 黑白照片(BW Photo):BW Photo
+    - 湿版照相(Wet-Plate Photo):Wet-Plate Photo
+    - 银版照相术(Daguerreotype Photo):Daguerreotype Photo
+    - 蓝晒法(Cyanotype Photo):Cyanotype Photo
+    - 安索泰普(Anthotype Photo):Anthotype Photo
+构图镜头:
+    - 不对称构图:intriguing asymmetrical composition
+    - 平衡构图:perfectly balanced composition
+    - 鸟瞰视角构图:expansive bird's eye view composition
+    - 虚化构图:dreamy bokeh composition
+    - 中心构图:bold centered composition
+    - 明暗对比构图:dramatic chiaroscuro lighting composition
+    - 色彩理论构图:harmonious color theory composition
+    - 对比构图:high-contrast composition
+    - 汇聚线构图:powerful converging lines composition
+    - 景深构图:selective focus depth of field composition
+    - 对角线构图:dynamic diagonal lines composition
+    - 斐波那契螺旋构图:natural fibonacci spiral composition
+    - 填充画面构图:impactful fill the frame composition
+    - 强制透视构图:playful forced perspective composition
+    - 前景兴趣点构图:engaging foreground interest composition
+    - 框中框构图:creative frame within a frame composition
+    - 框架构图:natural framing composition
+    - 格式塔原则构图:unified gestalt principles composition
+    - 黄金比例构图:harmonious golden ratio composition
+    - 黄金三角构图:balanced golden triangle composition
+    - 高角度构图:revealing high angle composition
+    - 并置构图:thought-provoking juxtaposition composition
+    - 分层构图:complex layered composition
+    - 引导线构图:compelling leading lines composition
+    - 低角度构图:imposing low angle composition
+    - 微距构图:detailed macro composition
+    - 极简主义构图:elegant minimalist composition
+    - 负空间构图:minimalist negative space composition
+    - 全景构图:expansive panoramic composition
+    - 图案与重复构图:mesmerizing patterns and repetition composition
+    - 放射构图:eye-catching radial composition
+    - 拍摄倒影构图:captivating reflection composition
+    - 节奏构图:visual rhythm composition
+    - 奇数法则构图:intriguing rule of odds composition
+    - 七分法则构图:subtle rule of sevenths composition
+    - 空间法则构图:dynamic rule of space composition
+    - 三分法则构图:balanced rule of thirds composition
+    - S型曲线构图:flowing s-curve composition
+    - 比例构图:impressive scale composition
+    - 选择性色彩构图:striking selective color composition
+    - 剪影构图:dramatic silhouette composition
+    - 堆叠构图:layered stacking composition
+    - 对称构图:perfectly symmetrical composition
+    - 纹理构图:rich textural composition
+    - 三角构图:stable triangular composition
+    - 三联画构图:narrative triptych composition
+    - 消失点构图:perspective-driven vanishing point composition
+    - 视角构图:unique viewpoint composition
+    - 暗角:subtle vignette composition
+    - 虫眼视角:unique worm's eye view composition
+拍摄时间:
+    - 黎明前:in the still pre-dawn hours
+    - 晨曦:at first light
+    - 天文晨昏蒙影:at astronomical twilight
+    - 航海晨昏蒙影:in the dim nautical twilight
+    - 民用晨昏蒙影:during civil twilight
+    - 日出:at the break of dawn
+    - 清晨:in the crisp early morning
+    - 黄金时刻:during golden hour
+    - 黄金瞬间:capturing the fleeting golden moment
+    - 魔幻时刻:in the enchanting magic hour
+    - 蓝色时刻:in the serene blue hour
+    - 蓝色瞬间:in the tranquil blue moment
+    - 上午中段:during bright mid-morning
+    - 午后初段:in the warm early afternoon
+    - 正午:at precise solar noon
+    - 中午:in the bright midday
+    - 正午时分:under the harsh high noon sun
+    - 午后末段:during the mellow late afternoon
+    - 日落:at the colorful sunset
+    - 暮光:in the mystical twilight
+    - 黄昏:at the fading dusk
+    - 最后的光线:at last light
+    - 傍晚初段:in the calm early evening
+    - 傍晚末段:during the quiet late evening
+    - 夜晚:in the dark of night
+    - 月出:during the ethereal moonrise
+    - 满月:under the luminous full moon
+    - 午夜:at the stroke of midnight
+    - 巫术时刻:during the eerie witching hour
+    - 月落:at the subtle moonset
+摄影色调:
+    - 类似色调:with harmonious analogous colors
+    - 黑白调:in timeless black and white
+    - 漂白旁路调:with gritty bleach bypass look
+    - 电影青橙调:in cinematic teal and orange
+    - 互补色调:using complementary color contrast
+    - 冷色调:using cool tones
+    - 交叉处理调:using cross-processed effect
+    - 赛博朋克:in futuristic cyberpunk color scheme
+    - 日拍夜:using day for night color grading
+    - 低饱和度调:in muted desaturated tones
+    - 双色调:in bold duotone color scheme
+    - 大地色调:using natural earthy tones
+    - 褪色调:in trendy faded color style
+    - 胶片模拟调:using classic film stock emulation
+    - 高动态范围调:with high dynamic range color grading
+    - 高对比度调:high contrast color palette
+    - 红外线调:using surreal infrared color effect
+    - Lomo风格调:with quirky lomo-inspired colors
+    - 低对比度调:soft low contrast look
+    - 哑光调:using flat matte color profile
+    - 单色调:in striking monochromatic tones
+    - 情绪化调:with atmospheric moody color grading
+    - 霓虹调:with vibrant neon color palette
+    - 黑色电影调:in classic film noir style
+    - 粉彩调:using soft pastel colors
+    - 复古棕调:with nostalgic sepia toning
+    - 曝光反转调:with artistic solarization effect
+    - 分色调:with creative split-toning technique
+    - 特艺彩色调:with vibrant technicolor-inspired palette
+    - 复古调:with retro vintage color grading
+    - 鲜艳调:with highly saturated vivid colors
+    - 暖色调:with warm color grading
+摄影灯光:
+    - 背光(光源在拍摄对象身后，营造出光晕效果):with light source behind the subject, creating a halo effect
+    - 美颜光(带有适合人像拍摄的环绕式光线):with flattering, wraparound light for portraits
+    - 蓝色时刻(利用日落后凉爽的漫射光):utilizing cool, diffused light after sunset
+    - 白板反射柔和灯光:with flash bounced off surfaces for softer light
+    - 宽光(脸部朝向相机的一侧有光照):with light on the side of the face toward the camera    
+    - 短光(脸部远离相机的一侧有光照):illuminating the side of the face away from the camera
+    - 蝴蝶光(光线在上方和前方，投射出鼻子的阴影):with light above and in front, casting a nose shadow
+    - 烛光:using warm, flickering light from candles
+    - 蛤蜊壳光(使用两盏灯，一盏在拍摄对象上方，一盏在拍摄对象下方):using two lights, one above and one below the subject
+    - 色片光(在灯光上使用彩色滤光片以实现创意效果):using colored gels on lights for creative effects
+    - 图案投影光:projecting patterns or shapes onto the subject
+    - 黄金时刻光(在日落前，沐浴着温暖的金色阳光):with warm, golden sunlight just before sunset
+    - 强日光(在强烈、对比鲜明的正午阳光下):with strong, contrasty midday sun
+    - 高调光(使用明亮、均匀的光线营造出干净、通透的视觉效果):using bright, even lighting for a clean, airy look
+    - 低调光(营造一种黑暗、忧郁的氛围，光线极少):creating a dark, moody atmosphere with minimal light
+    - 光绘(在长时间曝光中使用移动灯光创造独特效果):creating unique effects with moving lights in long exposures
+    - 环形光(在鼻子一侧创建一个小的阴影循环):creating a small shadow loop on the side of the nose
+    - 自然光(使用柔和的环境日光):using soft, ambient daylight
+    - 阴天光(在阴天使用柔和、漫射的光线):using soft, diffused light on a cloudy day
+    - 实用光(在场景中融入可见光源):incorporating visible light sources within the scene
+    - 伦勃朗光(在脸颊上打造一道三角形的光):creating a triangle of light on the cheek
+    - 轮廓光(使用光线勾勒出主体的边缘):using light to outline the edges of the subject
+    - 环形灯(利用环形光实现均匀、无阴影的照明):utilizing circular light for even, shadowless illumination
+    - 剪影(背后灯光):creating a dark subject against a bright background
+    - 柔光箱(使用柔光灯箱发出的漫射均匀光线):using diffused, even light from a soft box
+    - 照亮半张脸灯光:illuminating half of the face dramatically
+    - 聚光灯(用一束聚焦在物体上的光线):with a focused beam of light on the subject
+    - 三点光(按键灯、补光灯和背光灯):with key, fill, and back lights for balanced illumination
+    - 伞灯柔和光:with soft, bounced light from an umbrella
+    - 窗光(利用从窗户射进来的定向光):utilizing directional light from a window
+
+绘画媒介:
+    - 数字画:digital painting
+    - 插画:illustration,Painting
+    - 手绘:hand-drawn,sketch
+    - 铅笔画:Pencil Drawing
+    - 钢笔画:Pen and Ink Drawing
+    - 水墨画:Ink Drawing
+    - 水彩画:Watercolor Painting
+    - 工笔画:Gongbi painting style
+    - 写意画:Xieyi painting style
+    - 钢笔水彩画:Pen and Watercolor Painting
+    - 油画:Oil Painting
+    - 丙烯画:Acrylic Painting
+    - 粗炭素描:Rough Charcoal Sketch
+    - 蜡笔画:Crayon Drawing
+    - 雕刻插图:Engraving Illustration
+    - 美柔汀:Mezzotint
+    - 孔版印刷:Risograph Print
+    - 油毡刻花:Linocut
+    - 彩色油毡刻版画:Colored Linocut
+    - 厚涂绘画:Impasto Painting
+    - 调色刀油画:Palette Knife Oil Painting
+    - 明暗对比绘画:Chiaroscuro Painting
+    - 彩虹画:Iridescent Painting
+    - 立体绘画:Anaglyph Painting
+    - 漫画人物:Comic Character
+    - 像素艺术:Pixel Art
+    - 矢量图形:Vector Graphic
+    - 3D 渲染:3D Render
+    - 低多边形渲染:Low Poly Render
+    - 造型粘土:Modelling Clay
+    - 纸艺:Papercraft
+    - 刺绣十字绣:Embroidery Cross Stitch
+    - 浅浮雕木雕:Bas-Relief Wood Carving
+    - 大理石半身像:Marble Bust
+绘画构图:
+    - 特写:The close-up
+    - 三分法构图:The rule of thirds composition
+    - 荷兰角:The composition of the Dutch angle
+    - 全景:The wide-angle composition
+    - 鸟瞰图:The bird's-eye view composition
+    - 仰视:The low-angle composition
+    - 俯视:The high-angle composition
+    - 对称构图:The symmetrical composition
+    - 框架式构图:The frame-within-a-frame composition
+    - 引导线构图:The leading lines composition
+    - 对角线构图:The diagonal composition
+    - 中心构图:The central composition
+    - 填充式构图:The fill-the-frame composition
+    - 三角形构图:The triangular composition
+    - 黄金分割构图:The golden ratio composition
+    - 前景遮挡构图:The foreground obstruction composition
+作品情感:
+    - 喜悦幸福的感觉:It gives a feeling of joy and happiness
+    - 悲伤沉重的感觉:It gives a feeling of sadness and heaviness
+    - 激情澎湃的感觉:It gives a feeling of great enthusiasm
+    - 热情洋溢的感觉:It gives a feeling of passion and exuberance
+    - 宏大:It gives a feeling of grandeur and magnificence
+    - 宁静:It gives a feeling of peace and tranquility
+    - 孤独:It gives a feeling of solitude and isolation
+    - 怀旧:It gives a feeling of nostalgia and reminiscence
+    - 希望:It gives a feeling of hope and optimism
+    - 恐惧:It gives a feeling of fear and anxiety
+    - 愤怒:It gives a feeling of anger and resentment
+    - 温柔:It gives a feeling of tenderness and softness
+    - 梦幻:It gives a feeling of dreaminess and fantasy
+    - 庄严:It gives a feeling of solemnity and dignity
+    - 轻松:It gives a feeling of relaxation and ease
+    - 紧张:It gives a feeling of tension and suspense
+    - 兴奋:It gives a feeling of excitement and thrill
+    - 迷茫:It gives a feeling of confusion and disorientation
+    - 温暖:It gives a feeling of warmth and comfort
+    - 冷酷:It gives a feeling of coldness and detachment
+    - 幽默:It gives a feeling of humor and wit
+    - 优雅:It gives a feeling of elegance and grace
+    - 压抑:It gives a feeling of oppression and constraint
+    - 自由:It gives a feeling of freedom and liberation
+    - 神秘:It gives a feeling of mystery and enigma
+    - 浪漫:It gives a feeling of romance and love
+    - 惊悚:It gives a feeling of horror and shock
+绘画颜色:
+    - 鲜艳:illustration
+    - 单色:Monochromatic colors
+    - 暖色调:Warm colors
+    - 冷色调:Cool colors
+    - 互补色调:Complementary colors
+    - 对比色调:Contrasting colors
+    - 渐变色调:Gradual colors
+    - 暗色调:Dark colors
+    - 柔和色调:Soft colors
+    - 青橙色调:Cyan-orange colors
+    - 黑金色调:Black-gold colors
+    - 暮光紫色调:Twilight purple colors
+    - 胡杨色调:Populus euphratica colors
+    - 明亮色调:Bright colors
+    - 复古色调:Retro colors
+    - 清新色调:Fresh colors
+    - 高级灰:Noble gray
+    - 马卡龙色:Macaron colors
+    - 金属色调:Metallic colors
+    - 荧光色调:Fluorescent colors
+    - 透明色调:Transparent colors
+    - 粉彩色调:Pastel colors
+    - 大地色调:Earth tones
+    - 海洋色调:Marine colors
+    - 森林色调:Forest colors
+    - 彩虹色调:Rainbow colors
+    - 烟雾色调:Smoke colors
+    - 糖果色调:Candy colors
+    - 宝石色调:Gemstone colors
+    - 雾面色调:Matte colors
+    - 光泽色调:Glossy colors
+    - 浓烈色调:Intense colors
+    - 淡雅色调:Elegant colors
+    - 深邃色调:Deep colors
+    - 浅色调:Light colors
+    - 高饱和度:High saturation
+    - 低饱和度:Low saturation
+    - 冷暖对比:Cold and warm contrast
+    - 多色彩:Multicolored
+绘画艺术家:
+    - （B&W）阿尔文·兰登·科伯恩:style of Alvin Langdon Coburn
+    - （B&W）赖特森，伯尼:style of Bernie Wrightson, bw, high contrast
+    - （B&W）金正基:style of Kim Jung Gi, monochromatic
+    - （B&W）威廉·肯特里:style of William Kentridge
+    - （B&W）劳里·利普顿的风格:style of Laurie Lipton
+    - （B&W）阿波罗尼亚·圣克莱尔:style of Apollonia Saintclair
+    - （B&W）罗宾斯·特丽娜:style of Trina Robbins
+    - （B&W）路易·乔佛:style of Loui Jover, ink on newspaper
+    - （B&W）诺曼·阿克罗伊德:style of Norman Ackroyd
+    - （水粉）布莱恩·马斯本的风格:style of Brian Mashburn
+    - （水粉）埃德温·乔治:style of Edwin Georgi
+    - （水粉）唐·劳伦斯:style of Don Lawrence
+    - （水粉）桑顿·奥克利:style of Thornton Oakley
+    - （水粉）安东·皮克:style of Anton Pieck
+    - （水粉）乔恩·惠特科姆:style of Jon Whitcomb
+    - （丙烯）格雷格·西姆金斯:style of Greg Simkins
+    - （丙烯）加里·潘特:style of Gary Panter
+    - （丙烯）巴克利·肖:style of Barclay Shaw
+    - （3d）菲利普·霍达斯:style of Filip Hodas
+    - （3d）奥尔辛斯基工作室:style of Atelier Olschinsky
+    - （3d）托马斯·斯特扎尔科夫斯基:style of Tomasz Strzalkowski
+    - （3d）徐哲龙:style of Zhelong Xu
+    - （水彩）马蒂亚斯·阿道夫森:style of Mattias Adolfsson
+    - （水彩）安妮·巴舍利尔:style of Anne Bachelier
+    - （水彩）吉福德·比尔:style of Gifford Beal
+    - （水彩）亚历山大·班诺瓦:style of Alexandre Benois
+    - （水彩）科林·坎贝尔·库珀:style of Colin Campbell Cooper
+    - （水彩）艾格尼丝·塞西尔:style of Agnes Cecile
+    - （水彩）法雷尔·达尔林普尔:style of Farel Dalrymple
+    - （水彩）简·纽兰:style of Jane Newland
+    - （水彩）康拉德·罗塞特:style of Conrad Roset
+    - （水彩）托马斯·W·沙勒:style of Thomas W Schaller
+    - （水彩）安德斯·佐恩:style of Anders Zorn
+    - （插画）陈晓蓉:style of Hsiao Ron Cheng
+    - （插画）陈延君:style of Yanjun Cheng, iridescent
+    - （插画）鸟山明:style of Akira Toriyama
+    - （插画）新海诚:style of Makoto Shinkai
+    - （插画）吉普力风格:Ghibli Studio style, featuring hand-drawn backgrounds, rich colors, and detailed natural scenes
+    - （插画）宫崎骏风格:Miyazaki Hayao style, known for its imaginative worlds, hand-drawn art, deep emotional expression, and themes of nature and humanity
+    - （插画）尼尔·亚当斯:style of Neal Adams
+    - （插画）喬·克拉森:style of Jon Klassen
+    - （插画）樊尚·迪·法特:style of Vincent Di Fate
+    - （插画）大卫·阿贾:style of David Aja
+    - （插画）杰伊·阿纳克莱托:style of Jay Anacleto
+    - （插画）萨姆·博斯玛:style of Sam Bosma
+    - （插画）奥斯汀·布里格斯:style of Austin Briggs
+    - （插画）安娜·迪特曼:style of Anna Dittmann
+    - （插画）高桥光之:style of Hiroyuki-Mitsume Takahashi
+    - （插画）沃恩·布莱恩K.:style of Brian K. Vaughan
+    - （插画）伍德·阿什利:style of Ashley Wood
+    - （插画）杰克·戴维斯:style of Jack Davis
+    - （插画）本·坦普尔史密斯:style of Ben Templesmith
+    - （插画）凯瑟琳·麦卡利斯特:style of Cathleen McAllister
+    - （插画）詹姆斯·吉拉德:style of James Gilleard
+    - （插画）None:style of Ansel Adams
+    - （摄影）迈尔斯·奥尔德里奇:style of Miles Aldridge
+    - （摄影）理察·阿維東:style of Richard Avedon
+    - （摄影）格利高里·克鲁德逊:style of Gregory Crewdson
+    - （摄影）威廉·埃格莱斯顿:style of William Eggleston
+    - （摄影）南·戈丁 :style of Nan Goldin
+    - （摄影）保羅·羅維爾西:style of Paolo Roversi
+    - （摄影）马丁·舍勒:style of Martin Schoeller
+    - （摄影）泰勒·希尔兹:style of Tyler Shields
+    - （摄影）布兰登·沃尔费尔:style of Brandon Woelfel
+    - （摄影）利亚姆·王国旌:style of Liam Wong
+    - （摄影）里卡洛·乔瓦娜:style of Jovana Rikalo
+    - （油画）梵高:Van Gogh style
+    - （油画）毕加索风格:Pablo Picasso style
+    - （油画）达芬奇:Leonardo da Vinci style
+    - （油画）米开朗基罗:Michelangelo style
+    - （油画）拉斐尔:Raphael style
+    - （油画）伦勃朗:Rembrandt style
+    - （油画）约瑟夫·马洛德·威廉·特纳:J.M.W. Turner style
+    - （静物）巴尔塔萨·范·德·阿斯特:style of Ambrosius Bosschaert
+    - （静物）让·西梅翁·夏尔丹:style of Jean Siméon Chardin
+    - （静物）比尔·杰克林的风格:style of Bill Jacklin 
+
+人物描述:
+    - 女孩:1girl
+    - 超级名模:supermodel
+    - 年轻亚洲女人:a young asian woman
+    - 露出肩膀:bare shoulders
+    - 多彩的头发:multicolored hair
+    - 骆驼趾:cameltoe
+    - 害羞的微笑:shy smile
+    - 锁骨:collarbone
+    - 哭泣:crying
+    - 雀斑:freckles
+    - 烟熏妆:smoky makeup
+    - 化妆:makeup
+    - 水润的皮肤:moist skin
+    - 白皙皮肤:fair skin
+    - 大乳房:big breasts
+    - 乳房:breasts
+    - 拍着:all fours
+    - 细腰:small waist
+    - 宽臀:wide hips
+    - 细致的美颜:detailed beautiful face
+    - 看着观众:looking at viewer
+    - 可爱又甜蜜:lovely and sweet
+    - 精致的面容:Exquisite face
+    - 性感的:sexy
+    - 乳头:nipples
+    - 裸体:naked
+    - 娇小的身体:curvy and petite
+    - 阴部:pussy
+    - 阴唇:labia
+    - 中号阴茎:medium size penis
+    - 阴毛:pubic hair
+    - 阴部焦点:pussy focus, 
+    - 张开嘴:spreading lips
+    - 湿猫咪:wet pussy, pussy dripping,
+    - 阴道性交:vaginal sex
+    - 裸露的锁骨:exposed collarbone
+    - 完全裸体:completely nude
+    - 肚脐:navel
+    - 肛门:anus
+
+
+上衣服装:
+    - 露肩毛衣:wearing an off-the shoulder sweater
+    - T恤衫:T-shirt
+    - 连衣裙:Dress
+    - 印花T恤:print shirt
+    - 旗袍:cheong-sam
+    - 中国汉服:Chinese Hanfu
+    - 牛仔套装:Denim suit
+    - 夏威夷衬衫:hawaiian shirt
+    - 法师袍:Monk's robe
+    - 衣服漏洞:clothing cutout
+    - 条纹衬衫:striped shirt
+    - 大衣:Overcoat
+    - 艾尔兰毛衣:aran sweater
+    - 条纹毛衣:striped sweater
+    - 白衬衫:white shirt
+    - 棒球服:Baseball jacket
+    - 长袍:robe
+    - 针织衫:Striped Knit Cardigan
+    - 连帽斗篷:hooded cloak
+    - 斗篷外套:cloak coat
+    - 羽绒服:down jacket
+    - 混纺长袍:blend robe coat
+    - 无袖毛衣:Lettering Fuzzy Sleeveless Sweater
+    - 针织上衣:Line Color Scheme Knit Top
+    - 巴伐利亚服饰:dirndl
+    - 外套:outerwear
+    - 西服上衣:blazer
+    - 风衣:trench coat
+    - 系带大衣:wrap coat
+    - 中世纪盔甲:Medieval armor
+    - 防弹背心:Tactical bulletproof vest
+    - 卫衣:hoodie
+    - 超短针织上衣:Crop Knit Top
+    - 系带衬衫:tied shirt
+    - 马甲:waistcoat
+    - 背心:sleeveless shirt
+    - 无袖连帽衫:sleeveless hoodie
+    - 格子衬衫:plaid shirt
+    - 长袖运动卫衣:sweatshirt
+    - 皱边衬衫:frilled shirt
+    - 短衬衫:cropped shirt
+    - 水手服:sailor shirt
+    - 西服衬衫:dress shirt
+    - 衬衫:Shirt
+    - 卫衣:Hoodie
+    - 外套:Coat
+    - 夹克:Jacket
+    - 背心:Vest
+    - 运动服:Sportswear
+    - 工装裤:cargo pant
+    - 晚礼服:Evening dress
+    - 民族服装:National dress
+    - 皮衣:Leatherjacket
+    - 公主裙:princess dress
+    - 唐装:Tang suit
+    - 旗袍裙:cheongsam skirt
+    - 襦裙:Ru skirt
+    - 曲裾:Curving-front robe
+    - 褙子:Sleeved over-dress
+    - 裙褶:Pleated Skirts
+    - 大袖:Wide Sleeves
+
+裤裙下装:
+    - 吊带短裤:suspender shorts
+    - 宽松短裤:puffy shorts
+    - 休闲裤:Pocket String Jogger Pants
+    - 荷叶裙:ruffleskirt
+    - 苏格兰风裙子:Kilt skirt
+    - 德国民族群:Dirndl skirt
+    - 哥特裙:Gothic skirt
+    - 部落风裙子:Tribal skirt
+    - 格子裙:plaid skirt
+    - 牛仔裙:Cowboy skirt
+    - 热裤:Hot Pants
+    - 低腰短裤:Low-Rise Shorts
+    - 露口袋短裤:Peek-a-Boo Pocket Shorts
+    - 蕾丝短裤:Lace Shorts
+    - 皮质短裤:Leather Shorts
+    - 运动热裤:Sporty Hot Pants
+    - 侧开叉短裙:Side-Slit Skirt
+    - 高开叉长裙:High-Slit Maxi Skirt
+    - 紧身包臀裙:Tight Pencil Skirt
+    - 露背裙:Backless Dress
+    - 深V领裙:Deep V Neck Dress
+    - 裹身裙:Wrap Skirt
+    - 露肩裙:Off-Shoulder Dress
+    - 露腰裙:Crop Top Skirt
+    - 透视裙:Sheer Skirt
+    - 金属感短裙:Metallic Skirt
+    - 亮片裙:Sequined Skirt
+    - 紧身皮裙:Leather Pencil Skirt
+    - 紧身牛仔裙:Bodycon Denim Skirt
+    - 流苏牛仔短裤:Fringe Denim Shorts
+    - 紧身牛仔裤:Skinny Jeans
+    - 直筒牛仔裤:Straight Jeans
+    - 喇叭裤:Flared Pants
+    - 哈伦裤:Harem Pants
+    - 瑜伽裤:Yoga Pants
+    - 打底裤:Leggings
+    - 西装裤:Trousers
+    - 高腰裤:High-Waist Pants
+    - 七分裤:Cropped Pants
+    - 百慕大短裤:Bermuda Shorts
+    - A字裙:A-Line Skirt
+    - 包臀裙:Bodycon Skirt
+    - 迷你裙:Mini Skirt
+    - 长裙:Maxi Skirt
+    - 伞裙:Umbrella Skirt
+    - 蛋糕裙:Tutu Skirt
+    - 流苏裙:Fringe Skirt
+    - 蕾丝裙:Lace Skirt
+    - 印花裙:Print Skirt
+    - 针织裙:Knit Skirt
+
+人物情绪:   
+    - 时尚的:Chic
+    - 沉稳的:Poised
+    - 复杂的:Sophisticated
+    - 精致的:Refined
+    - 时尚的:Stylish
+    - 高雅的:Classy
+    - 庄严的:Regal
+    - 魅力四溢的:Charismatic
+    - 卓越的:Distinguished
+    - 文雅的:Suave
+    - 敏感的:Sensitive
+    - 乐观的:Optimistic
+    - 外向的:Outgoing
+    - 聪明的:Intelligent
+    - 内向的:Introverted
+    - 独立的:Independent
+    - 灵活的:Flexible
+    - 自信的:Confident
+    - 贫穷的:Poor
+    - 富裕的:Wealthy
+    - 愤怒:angry
+    - 难过:upset
+    - 悲伤:sad
+    - 兴奋:excited
+    - 感到惊讶:surprised
+    - 高兴:happy
+    - 厌恶:disgusted
+    - 焦虑:anxious
+    - 兴高采烈:elated
+    - 感到恐惧:fearful
+    - 憎恨:hateful
+    - 毒液:Venom 
+    - 甜心:sweetheart
+    - 长舌头:long tongue
+    - 思考:thinking
+    - 额头:forehead
+    - 不安的:nervous
+    - 坏笑:evil smile
+    - 不安地微笑:nervous smile
+    - 淡淡的腮红:light blush
+    - 苦恼的:annoyed
+    - 脸贴脸:cheek-to-cheek
+    - 沉思的:pensive
+    - 表情:expressions
+    - 抬下巴:chin grab
+    - 害羞的:shy
+    - 失神:unconscious
+    - 挡住嘴巴:covering mouth
+    - 尴尬的:embarrassed
+    - 疯狂地笑:crazy smile
+    - 明亮的瞳孔:bright pupils
+    - 脸红的:blush
+    - 强迫笑:forced smile
+    - 困乏的:sleepy
+    - 格拉斯哥微笑:glasgow smile
+    - 苦笑:sad smile
+    - 喝醉的:drunk
+    - 耳红:ear blush
+    - 皱眉:frown
+    - 尖牙:fangs
+    - 憋气:holding breath
+    - 舌头:tongue
+    - 恐惧表情:horrified
+    - 诱人的微笑:seductive smile
+    - 傲娇:tsundere
+    - 胡子:facial hair
+    - 啜泣:sobbing
+    - 脸贴脸:face-to-face
+    - 笑脸:smiley
+    - 食物在脸上:food on face
+    - 傻笑的笑:smirk
+    - 二人面对面(脸贴得很近）:facing another
+    - 闻:smelling
+    - 慌乱的:fLustered
+    - 张口:open mouth
+    - 额头贴额头:forehead-to-forehead
+    - 整张脸泛红:full blush
+    - 牙:teeth
+    - 微笑:smile
+    - 喘粗气:heavy breathing
+    - 浅笑:Iight smile
+    - 呻吟:moaning
+    - 得意脸:smUg
+    - 惊讶或无语到喷了:spit take
+    - 失神:expressionless eves
+    - 诱惑的表情:torogao
+    - 忍耐的表情:endured face
+    - 快乐-幸福:happy
+    - 青筋:anger vein
+    - 表情贴纸:blush stickers
+    - 疑惑:confused
+    - 有决心的:determined
+    - 失望的:disappointed
+    - 嘴唇微张:parted Lips
+    - 庆恶的怪相:grimace
+    - 蔑视:disdain
+    - 尖叫:screaming
+    - 绝望:despair
+    - 害怕的:scared
+    - 邪恶:evil
+    - 以手掩直:facepalm
+    - 怒视嫌弃-不满:scowl
+    - 沮丧:frustrated
+    - 库布里克凝视:kubrick stare
+    - 孤独的:Lonely
+    - 扬起的眉毛:raised eyebrow
+    - 压抑的-郁闷的:depressed
+    - 要哭的表情:tearing up
+    - 恐慌的:panicking
+    - 担忧的:worried
+    - 无聊的:bored
+    - 悲观情绪:gloom
+    - 在笑的:laughing
+    - 嚣张脸:troll
+    - 嫉妒的:jealous
+    - 唾液拉丝:saliva trail
+    - 朱唇:red lips
+    - 累:tired
+    - 露出上排牙齿:upper teeth
+    - 露出虎牙-露出尖牙:fang out
+    - 闷网不乐:sUlking
+    - 露齿而笑:grin
+
