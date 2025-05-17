@@ -87,7 +87,8 @@ def call_openai(key,url,User_input,model_name,system,temperature_value):
         ],
         max_tokens=512,
         temperature=temperature_value,
-        stream=False
+        stream=False,  # 非流式调用
+        enable_thinking=False  # 必须设置为false
     )
     chat_content = response.choices[0].message.content
     return chat_content
