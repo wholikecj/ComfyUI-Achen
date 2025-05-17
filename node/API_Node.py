@@ -113,7 +113,7 @@ class KolorsTextEncode:
         pass
 
     @classmethod
-    def INPUT_TYPES(s):
+    def INPUT_TYPES(s):        
         return {
             "required": {
                 "text": ("STRING", {"multiline": True, "dynamicPrompts": True}),
@@ -125,8 +125,8 @@ class KolorsTextEncode:
     CATEGORY = "Achen节点"
 
     def kolrosencode(self, text):
+        url,key = return_file_value('None',apikey_file,value_a="url",value_b="key") 
         url = "https://bizyair-api.siliconflow.cn/x/v1/supernode/mzkolorschatglm3"
-        key = "your_api_key"
 
         payload = {
             "text": text,

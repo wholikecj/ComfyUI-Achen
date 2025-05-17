@@ -25,7 +25,7 @@ from typing import List, Tuple, Union
 import torch
 import numpy as np
 
-
+apikey_file = "set_apikey.json"
 # 清理文本，去除换行符和多余的空格等
 def clean_text(out):
     out = re.sub(r'\[', '', out)
@@ -96,8 +96,7 @@ def call_openai(key,url,User_input,model_name,system,temperature_value):
 def baidutranslationapi(fany_text,toLang_text):
 
     # 百度API
-    appid = '20240409002018713'  # 填写你的appid
-    secretKey = 'your_baidu_secret_key'  # 填写你的密钥
+    appid,secretKey = return_file_value('baidu_translation',apikey_file,value_a="appid",value_b="secretKey") 
     myurl = '/api/trans/vip/translate'
     httpClient = None
     
