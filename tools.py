@@ -76,22 +76,56 @@ def return_file_value(titel,file_add,value_a="",value_b=""):
             break
     return return_valuea, return_valueb
 
-# 调用openai api
-def call_openai(key,url,User_input,model_name,system,temperature_value):
+
+# 调用OpenAI兼容接口的函数，支持自定义模型与参数
+def call_openai(key, url, user_input, model_name, system_prompt, temperature=0.7, max_tokens=512):
+    """
+    调用OpenAI兼容的API接口获取回复
+    
+    参数:
+        key (str): API密钥
+        url (str): API基础URL
+        user_input (str): 用户输入内容
+        model_name (str): 使用的模型名称
+        system_prompt (str): 系统提示词
+        temperature (float): 生成文本的随机性程度，默认0.7
+        max_tokens (int): 最大生成token数，默认512
+        
+    返回:
+        str: 模型生成的内容
+        
+    异常:
+        抛出OpenAI相关的异常，调用者需自行处理
+    """
     client = OpenAI(api_key=key, base_url=url)
-    response = client.chat.completions.create(
-        model=f"{model_name}",
-        messages=[
-            {"role": "system", "content": system},
-            {"role": "user", "content": User_input},
-        ],
-        max_tokens=512,
-        temperature=temperature_value,
-        stream=False,  # 非流式调用
-        enable_thinking=False  # 必须设置为false
-    )
-    chat_content = response.choices[0].message.content
-    return chat_content
+    
+    extra_body = {
+        "enable_thinking": False,
+        # "thinking_budget": 4096
+    }
+
+    try:
+        response = client.chat.completions.create(
+            model=model_name,
+            messages=[
+                {"role": "system", "content": system_prompt},
+                {"role": "user", "content": user_input},
+            ],
+            max_tokens=max_tokens,
+            temperature=temperature,
+            stream=False,  # 非流式调用
+            extra_body=extra_body
+        )
+        
+        if not response.choices or not response.choices[0].message.content:
+            raise ValueError("API返回内容为空")
+
+        chat_content = response.choices[0].message.content
+        return chat_content
+
+    except Exception as e:
+        # 可根据具体需求记录日志或做进一步处理
+        raise RuntimeError(f"调用OpenAI API失败: {e}") from e
 
 # 调用百度翻译api
 def baidutranslationapi(fany_text,toLang_text):
