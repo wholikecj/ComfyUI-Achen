@@ -1,0 +1,23 @@
+# Python
+__pycache__/
+*.py[cod]
+*$pyd
+*.pyo
+*.pyd
+# Virtual environments
+env/
+venv/
+.venv/
+# Distribution
+build/
+*.egg-info/
+# Logs
+*.log
+# VS Code
+.vscode/
+# Jupyter
+.ipynb_checkpoints/
+# Custom UI node cache
+*.cache
+
+json/set_apikey.json
